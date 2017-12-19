@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Tvaran || Team Members</title>
+<title>Tvaran || Events</title>
 <meta name="description" content="" />
 <meta name="keywords" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -81,11 +81,11 @@
 <div class="navbar-header">
 <a class="menu-toggle ext-nav-toggle visible-xs-block" data-target=".ext-nav" href="#"><span></span></a>
 <a class="menu-toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" href="#"><span></span></a>
-<a class="navbar-brand" href="#">Tvaran 2k18</a>
+<a class="navbar-brand" href="index.php">Tvaran 2k18</a>
 </div>
 <div class="collapse navbar-collapse">
 <ul class="nav navbar-nav navbar-right">
-<li><a href="index.php" class="hover-effect">Home</a></li>
+<li><a href="index.php#home" class="hover-effect">Home</a></li>
 <li><a href="index.php#about" class="hover-effect">About</a></li>
 <li><a href="index.php#events" class="hover-effect">Events</a></li>
 <li><a href="index.php#gallery" class="hover-effect">Gallery</a></li>
@@ -128,26 +128,21 @@
 <a class="cross" href="#"></a>
 </div>
 </div>
-<div class="gate colors-e background-solid">
-<div class="gate-bar background-highlight-e"></div>
-<ul class="loader">
-<li class="background-100-g"></li>
-<li class="background-90-c"></li>
-<li class="background-100-f"></li>
-</ul>
-</div>
 <section id="team">
 <div class="view">
 <img alt class="bg" src="images/bg/stocksnap/3F7D411CC8.jpg" /><img alt class="bg" src="images/bg/stocksnap/3F7D411CC8.jpg" />
 <div class="content colors-e">
 <div class="container">
-<h3>Core Team</h3>
+<h2>Team</h2>
 <div class="row">
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="Mike Johnson" src="images/our-team/ashutosh_singh.jpg" title="Mike Johnson" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
+<p class="text-center text-uppercase heading-b">
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+</p>
 </div>
 </div>
 </div>
@@ -162,9 +157,17 @@
 <img alt="Jessica Specter" src="images/our-team/subesh_singh.jpg" title="Jessica Specter" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<!-- <p class="text-center text-uppercase heading-b">
+<p class="text-center text-uppercase heading-b">
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p> -->
+</p>
+<div class="separator-small"></div>
+<p class="text-center">
+<a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter heading-b"></i></a>
+<a target="_blank" href="https://www.linkedin.com/"><i class="fa fa-linkedin heading-b"></i></a>
+<a target="_blank" href="https://plus.google.com/"><i class="fa fa-google-plus heading-b"></i></a>
+<a target="_blank" href="https://vimeo.com/"><i class="fa fa-vimeo-square heading-b"></i></a>
+<a target="_blank" href="https://www.tumblr.com/"><i class="fa fa-tumblr heading-b"></i></a>
+</p>
 </div>
 </div>
 </div>
@@ -179,6 +182,16 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <img alt="Lynda Smith" src="images/our-team/pankaj_yadav.jpg" title="Lynda Smith" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
+<p class="text-center text-uppercase heading-b">
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<div class="separator-small"></div>
+<p class="text-center">
+<a target="_blank" href="https://www.flickr.com/"><i class="fa fa-flickr heading-b"></i></a>
+<a target="_blank" href="https://www.dropbox.com/"><i class="fa fa-dropbox heading-b"></i></a>
+<a target="_blank" href="https://www.xing.com/"><i class="fa fa-xing heading-b"></i></a>
+ <a target="_blank" href="http://vk.com/"><i class="fa fa-vk heading-b"></i></a>
+</p>
 </div>
 </div>
 </div>
@@ -192,7 +205,18 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <div class="hover-overlay">
 <img alt="Lynda Smith" src="images/our-team/ishan_sharma.jpg" title="Lynda Smith" class="fluid-width">
 <div class="overlay background-90-b">
-<div>	
+<div>
+<p class="text-center text-uppercase heading-b">
+Exercitation ut enim ad minim veniam, quis nostrud ullamco laboris nisi ut aliquip ex ea commodo consequat.
+</p>	
+<div class="separator-small"></div>
+<p class="text-center">
+<a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter heading-b"></i></a>
+<a target="_blank" href="https://www.linkedin.com/"><i class="fa fa-linkedin heading-b"></i></a>
+<a target="_blank" href="https://plus.google.com/"><i class="fa fa-google-plus heading-b"></i></a>
+<a target="_blank" href="https://vimeo.com/"><i class="fa fa-vimeo-square heading-b"></i></a>
+<a target="_blank" href="https://www.tumblr.com/"><i class="fa fa-tumblr heading-b"></i></a>
+</p>
 </div>
 </div>
 </div>
@@ -204,152 +228,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 </div>
 </div>
 </div>
-<!-- organising team start -->
-<div class="container">
-<h3>Organising Team</h3>
-<div class="row">
-<div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay">
-<img alt="Arvind Yadav" src="images/our-team/arvind_yadav.jpg" title="Arvind Yadav" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-</div>
-</div>
-</div>
-<div class="caption">
-<p>
-<span class="title">Arvind Yadav</span>
-</p>
-</div>
-</div>
-<div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay">
-<img alt="Ankita Singh" src="images/our-team/ankita_singh.jpg" title="Ankita Singh" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-<!-- <p class="text-center text-uppercase heading-b">
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p> -->
-</div>
-</div>
-</div>
-<div class="caption">
-<p>
-<span class="title">Ankita Singh</span>
-</p>
-</div>
-</div>
-<div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay">
-<img alt="Shashank Tiwari" src="images/our-team/shashank_tiwari.jpg" title="Shashank Tiwari" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-</div>
-</div>
-</div>
-<div class="caption">
-<p>
-<span class="title">Shashank Tiwari</span>
-</p>
-</div>
-</div>
-<div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay">
-<img alt="Abhishek Kumar" src="images/our-team/abhishek_kumar.jpg" title="Abhishek Kumar" class="fluid-width">
-<div class="overlay background-90-b">
-<div>	
-</div>
-</div>
-</div>
-<div class="caption">
-<p>
-<span class="title">Abhishek Kumar</span>
-</p>
-</div>
-</div>
-</div>
-</div>
-<!-- management team start -->
-<div class="container">
-<h3>Management Team</h3>
-<div class="row">
-<div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay">
-<img alt="Deepak Kumar" src="images/our-team/" title="Deepak Kumar" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-</div>
-</div>
-</div>
-<div class="caption">
-<p>
-<span class="title">Deepak Kumar</span>
-</p>
-</div>
-</div>
-<div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay">
-<img alt="Vishant Chaudhary" src="images/our-team/ankita_singh.jpg" title="Vishant Chaudhary" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-<!-- <p class="text-center text-uppercase heading-b">
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p> -->
-</div>
-</div>
-</div>
-<div class="caption">
-<p>
-<span class="title">Vishant Chaudhary</span>
-</p>
-</div>
-</div>
-<div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay">
-<img alt="Shashank Tiwari" src="images/our-team/shashank_tiwari.jpg" title="Shashank Tiwari" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-</div>
-</div>
-</div>
-<div class="caption">
-<p>
-<span class="title">Shashank Tiwari</span>
-</p>
-</div>
-</div>
-<div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay">
-<img alt="Shashank Tiwari" src="images/our-team/shashank_tiwari.jpg" title="Shashank Tiwari" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-</div>
-</div>
-</div>
-<div class="caption">
-<p>
-<span class="title">Shashank Tiwari</span>
-</p>
-</div>
-</div>
-<div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay">
-<img alt="Abhishek Kumar" src="images/our-team/abhishek_kumar.jpg" title="Abhishek Kumar" class="fluid-width">
-<div class="overlay background-90-b">
-<div>	
-</div>
-</div>
-</div>
-<div class="caption">
-<p>
-<span class="title">Abhishek Kumar</span>
-</p>
-</div>
-</div>
-</div>
-</div>
-<!-- food and lodging team start -->
-
 </div>
 </div>
 </section>
@@ -380,31 +258,16 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <div class="col-md-3">
 <h5>Recent Posts</h5>
 <ul class="simple">
-<li><a href="blog-single-1.html">Post with Featured Image</a></li>
+<li><a href="#">Tvaran2k18 || Ready for BigPlay!</a></li>
 </ul>
 </div>
 <div class="col-md-3">
-<h5>Photo Stream</h5>
-<div class="photo">
-<div class="col-xs-3 col-sm-2 col-md-4">
-<a target="_blank" href="https://www.flickr.com/photos/we-are-envato/12333983853" title="Melbourne Meetup by Envato, on Flickr"><img class="fluid-width" src="https://farm8.staticflickr.com/7367/12333983853_8fc462a494_q.jpg" alt="Melbourne Meetup"></a>
-</div>
-<div class="col-xs-3 col-sm-2 col-md-4">
-<a target="_blank" href="https://www.flickr.com/photos/we-are-envato/13090549273" title="Around the Envato Office - Highfive! by Envato, on Flickr"><img class="fluid-width" src="https://farm8.staticflickr.com/7325/13090549273_ee5c732ce1_q.jpg" alt="Around the Envato Office - Highfive!"></a>
-</div>
-<div class="col-xs-3 col-sm-2 col-md-4">
-<a target="_blank" href="https://www.flickr.com/photos/we-are-envato/12333834195" title="Melbourne Meetup by Envato, on Flickr"><img class="fluid-width" src="https://farm4.staticflickr.com/3798/12333834195_7dcb472dd5_q.jpg" alt="Melbourne Meetup"></a>
-</div>
-<div class="col-xs-3 col-sm-2 col-md-4">
-<a target="_blank" href="https://www.flickr.com/photos/we-are-envato/13090422515" title="Around the Envato Office - Becca by Envato, on Flickr"><img class="fluid-width" src="https://farm3.staticflickr.com/2279/13090422515_cabc9c447c_q.jpg" alt="Around the Envato Office - Becca"></a>
-</div>
-<div class="col-xs-3 col-sm-2 col-md-4">
-<a target="_blank" href="https://www.flickr.com/photos/we-are-envato/13090762874" title="Around the Envato Office - Ben &amp; Jane by Envato, on Flickr"><img class="fluid-width" src="https://farm4.staticflickr.com/3596/13090762874_5f9d99f4e5_q.jpg" alt="Around the Envato Office - Ben &amp; Jane"></a>
-</div>
-<div class="col-xs-3 col-sm-2 col-md-4">
-<a target="_blank" href="https://www.flickr.com/photos/we-are-envato/13090456565" title="Around the Envato Office - Selina by Envato, on Flickr"><img class="fluid-width" src="https://farm4.staticflickr.com/3715/13090456565_df81e68627_q.jpg" alt="Around the Envato Office - Selina"></a>
-</div>
-</div>
+<h5>Contacts</h5>
+Registration and enquiry- +91 9695015595
+
+Branding - +91 9695015595
+<br/>
+Events-+91 9695015595
 </div>
 </div>
 </div>
