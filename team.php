@@ -139,9 +139,7 @@
 <img alt="Mike Johnson" src="images/our-team/ashutosh_singh.jpg" title="Mike Johnson" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<p class="text-center text-uppercase heading-b">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-</p>
+
 </div>
 </div>
 </div>
@@ -156,9 +154,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 <img alt="Jessica Specter" src="images/our-team/subesh_singh.jpg" title="Jessica Specter" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<p class="text-center text-uppercase heading-b">
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p>
+
+<!--
 <div class="separator-small"></div>
 <p class="text-center">
 <a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter heading-b"></i></a>
@@ -167,7 +164,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <a target="_blank" href="https://vimeo.com/"><i class="fa fa-vimeo-square heading-b"></i></a>
 <a target="_blank" href="https://www.tumblr.com/"><i class="fa fa-tumblr heading-b"></i></a>
 </p>
-</div>
+-->
+</div> 
 </div>
 </div>
 <div class="caption">
@@ -181,16 +179,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <img alt="Lynda Smith" src="images/our-team/pankaj_yadav.jpg" title="Lynda Smith" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<p class="text-center text-uppercase heading-b">
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://www.flickr.com/"><i class="fa fa-flickr heading-b"></i></a>
-<a target="_blank" href="https://www.dropbox.com/"><i class="fa fa-dropbox heading-b"></i></a>
-<a target="_blank" href="https://www.xing.com/"><i class="fa fa-xing heading-b"></i></a>
- <a target="_blank" href="http://vk.com/"><i class="fa fa-vk heading-b"></i></a>
-</p>
+
 </div>
 </div>
 </div>
@@ -205,17 +194,8 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 <img alt="Lynda Smith" src="images/our-team/ishan_sharma.jpg" title="Lynda Smith" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<p class="text-center text-uppercase heading-b">
-Exercitation ut enim ad minim veniam, quis nostrud ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p>	
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter heading-b"></i></a>
-<a target="_blank" href="https://www.linkedin.com/"><i class="fa fa-linkedin heading-b"></i></a>
-<a target="_blank" href="https://plus.google.com/"><i class="fa fa-google-plus heading-b"></i></a>
-<a target="_blank" href="https://vimeo.com/"><i class="fa fa-vimeo-square heading-b"></i></a>
-<a target="_blank" href="https://www.tumblr.com/"><i class="fa fa-tumblr heading-b"></i></a>
-</p>
+
+
 </div>
 </div>
 </div>
@@ -229,96 +209,68 @@ Exercitation ut enim ad minim veniam, quis nostrud ullamco laboris nisi ut aliqu
 </div>
 <!-- core team end -->
 <div class="container">
-<h2>Team</h2>
+<h3>Organising Team</h3>
 <div class="row">
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Mike Johnson" src="images/our-team/ashutosh_singh.jpg" title="Mike Johnson" class="fluid-width">
+<img alt="Arvind yadav" src="images/our-team/arvind_yadav.jpg" title="Arvind Yadav" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<p class="text-center text-uppercase heading-b">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-</p>
+
 </div>
 </div>
 </div>
 <div class="caption">
 <p>
-<span class="title">Ashutosh Singh</span>
+<span class="title">Arvind Yadav</span>
 </p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Jessica Specter" src="images/our-team/subesh_singh.jpg" title="Jessica Specter" class="fluid-width">
+<img alt="ankit singh" src="images/our-team/ankita_singh.jpg" height="5px" width="5px" title="Jessica Specter" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<p class="text-center text-uppercase heading-b">
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p>
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter heading-b"></i></a>
-<a target="_blank" href="https://www.linkedin.com/"><i class="fa fa-linkedin heading-b"></i></a>
-<a target="_blank" href="https://plus.google.com/"><i class="fa fa-google-plus heading-b"></i></a>
-<a target="_blank" href="https://vimeo.com/"><i class="fa fa-vimeo-square heading-b"></i></a>
-<a target="_blank" href="https://www.tumblr.com/"><i class="fa fa-tumblr heading-b"></i></a>
-</p>
+
+
 </div>
 </div>
 </div>
 <div class="caption">
 <p>
-<span class="title">Subesh Singh</span>
+<span class="title">Ankita Singh</span>
 </p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Lynda Smith" src="images/our-team/pankaj_yadav.jpg" title="Lynda Smith" class="fluid-width">
+<img alt="shashank tiwari" src="images/our-team/shashank_tiwari.jpg" title="shashank tiwari" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<p class="text-center text-uppercase heading-b">
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://www.flickr.com/"><i class="fa fa-flickr heading-b"></i></a>
-<a target="_blank" href="https://www.dropbox.com/"><i class="fa fa-dropbox heading-b"></i></a>
-<a target="_blank" href="https://www.xing.com/"><i class="fa fa-xing heading-b"></i></a>
- <a target="_blank" href="http://vk.com/"><i class="fa fa-vk heading-b"></i></a>
-</p>
+
+
 </div>
 </div>
 </div>
 <div class="caption">
 <p>
-<span class="title">Pankaj Yadav</span>
+<span class="title">Shashank Tiwari</span>
 </p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Lynda Smith" src="images/our-team/ishan_sharma.jpg" title="Lynda Smith" class="fluid-width">
+<img alt="abhishek kumar" src="images/our-team/Abhishek_kumar.jpg" title="abhishek kumar" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<p class="text-center text-uppercase heading-b">
-Exercitation ut enim ad minim veniam, quis nostrud ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p>	
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter heading-b"></i></a>
-<a target="_blank" href="https://www.linkedin.com/"><i class="fa fa-linkedin heading-b"></i></a>
-<a target="_blank" href="https://plus.google.com/"><i class="fa fa-google-plus heading-b"></i></a>
-<a target="_blank" href="https://vimeo.com/"><i class="fa fa-vimeo-square heading-b"></i></a>
-<a target="_blank" href="https://www.tumblr.com/"><i class="fa fa-tumblr heading-b"></i></a>
-</p>
+
+
 </div>
 </div>
 </div>
 <div class="caption">
 <p>
-<span class="title">Ishan Sharma</span>
+<span class="title">Abhishek kumar</span>
 </p>
 </div>
 </div>
@@ -326,429 +278,240 @@ Exercitation ut enim ad minim veniam, quis nostrud ullamco laboris nisi ut aliqu
 </div>
 <!-- organ. team end -->
 <div class="container">
-<h2>Team</h2>
+<h3>Management Team</h3>
 <div class="row">
+
+<div class="col-md-3 col-sm-6  col-xs-6">
+<div class="hover-overlay"></div></div>
+
+
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Mike Johnson" src="images/our-team/ashutosh_singh.jpg" title="Mike Johnson" class="fluid-width">
+<img alt="deepshikha singh" src="images/our-team/deepshikha singh.jpg" title="deepshikha singh" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<p class="text-center text-uppercase heading-b">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-</p>
+
 </div>
 </div>
 </div>
 <div class="caption">
 <p>
-<span class="title">Ashutosh Singh</span>
+<span class="title">Deepshikha Singh</span>
 </p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Jessica Specter" src="images/our-team/subesh_singh.jpg" title="Jessica Specter" class="fluid-width">
+<img alt="nidhi srivastava" src="images/our-team/nidhi srivastava.jpg" title="nidhi srivastava" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<p class="text-center text-uppercase heading-b">
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p>
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter heading-b"></i></a>
-<a target="_blank" href="https://www.linkedin.com/"><i class="fa fa-linkedin heading-b"></i></a>
-<a target="_blank" href="https://plus.google.com/"><i class="fa fa-google-plus heading-b"></i></a>
-<a target="_blank" href="https://vimeo.com/"><i class="fa fa-vimeo-square heading-b"></i></a>
-<a target="_blank" href="https://www.tumblr.com/"><i class="fa fa-tumblr heading-b"></i></a>
-</p>
+
 </div>
 </div>
 </div>
 <div class="caption">
 <p>
-<span class="title">Subesh Singh</span>
+<span class="title">Nidhi Srivastava</span>
 </p>
 </div>
 </div>
+
 <div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay">
-<img alt="Lynda Smith" src="images/our-team/pankaj_yadav.jpg" title="Lynda Smith" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-<p class="text-center text-uppercase heading-b">
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://www.flickr.com/"><i class="fa fa-flickr heading-b"></i></a>
-<a target="_blank" href="https://www.dropbox.com/"><i class="fa fa-dropbox heading-b"></i></a>
-<a target="_blank" href="https://www.xing.com/"><i class="fa fa-xing heading-b"></i></a>
- <a target="_blank" href="http://vk.com/"><i class="fa fa-vk heading-b"></i></a>
-</p>
-</div>
-</div>
-</div>
-<div class="caption">
-<p>
-<span class="title">Pankaj Yadav</span>
-</p>
-</div>
-</div>
-<div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay">
-<img alt="Lynda Smith" src="images/our-team/ishan_sharma.jpg" title="Lynda Smith" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-<p class="text-center text-uppercase heading-b">
-Exercitation ut enim ad minim veniam, quis nostrud ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p>	
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter heading-b"></i></a>
-<a target="_blank" href="https://www.linkedin.com/"><i class="fa fa-linkedin heading-b"></i></a>
-<a target="_blank" href="https://plus.google.com/"><i class="fa fa-google-plus heading-b"></i></a>
-<a target="_blank" href="https://vimeo.com/"><i class="fa fa-vimeo-square heading-b"></i></a>
-<a target="_blank" href="https://www.tumblr.com/"><i class="fa fa-tumblr heading-b"></i></a>
-</p>
-</div>
-</div>
-</div>
-<div class="caption">
-<p>
-<span class="title">Ishan Sharma</span>
-</p>
-</div>
-</div>
-</div>
+<div class="hover-overlay"></div></div>
+
+
 </div>
 <!--management team end -->
 <div class="container">
-<h2>Team</h2>
+<h3>Food and Loading Team</h3>
 <div class="row">
+
+<div class="col-md-2 col-sm-6  col-xs-6">
+<div class="hover-overlay">
+</div></div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Mike Johnson" src="images/our-team/ashutosh_singh.jpg" title="Mike Johnson" class="fluid-width">
+<img alt="partik singh" src="images/our-team/pratik_singh.jpg" title="partik singh" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<p class="text-center text-uppercase heading-b">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-</p>
+
 </div>
 </div>
 </div>
 <div class="caption">
 <p>
-<span class="title">Ashutosh Singh</span>
+<span class="title">Pratik Singh</span>
 </p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Jessica Specter" src="images/our-team/subesh_singh.jpg" title="Jessica Specter" class="fluid-width">
+<img alt="roli verma" src="images/our-team/roli_verma.jpg" title="Roli verma" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<p class="text-center text-uppercase heading-b">
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p>
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter heading-b"></i></a>
-<a target="_blank" href="https://www.linkedin.com/"><i class="fa fa-linkedin heading-b"></i></a>
-<a target="_blank" href="https://plus.google.com/"><i class="fa fa-google-plus heading-b"></i></a>
-<a target="_blank" href="https://vimeo.com/"><i class="fa fa-vimeo-square heading-b"></i></a>
-<a target="_blank" href="https://www.tumblr.com/"><i class="fa fa-tumblr heading-b"></i></a>
-</p>
+
+
 </div>
 </div>
 </div>
 <div class="caption">
 <p>
-<span class="title">Subesh Singh</span>
+<span class="title">Roli Verma</span>
 </p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Lynda Smith" src="images/our-team/pankaj_yadav.jpg" title="Lynda Smith" class="fluid-width">
+<img alt="garvita garg" src="images/our-team/garvita_garg.jpg" title="garvita garg" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<p class="text-center text-uppercase heading-b">
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://www.flickr.com/"><i class="fa fa-flickr heading-b"></i></a>
-<a target="_blank" href="https://www.dropbox.com/"><i class="fa fa-dropbox heading-b"></i></a>
-<a target="_blank" href="https://www.xing.com/"><i class="fa fa-xing heading-b"></i></a>
- <a target="_blank" href="http://vk.com/"><i class="fa fa-vk heading-b"></i></a>
-</p>
+
+
 </div>
 </div>
 </div>
 <div class="caption">
 <p>
-<span class="title">Pankaj Yadav</span>
+<span class="title">Garvita Garg</span>
 </p>
 </div>
 </div>
-<div class="col-md-3 col-sm-6  col-xs-6">
+
+<div class="col-md-1 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Lynda Smith" src="images/our-team/ishan_sharma.jpg" title="Lynda Smith" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-<p class="text-center text-uppercase heading-b">
-Exercitation ut enim ad minim veniam, quis nostrud ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p>	
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter heading-b"></i></a>
-<a target="_blank" href="https://www.linkedin.com/"><i class="fa fa-linkedin heading-b"></i></a>
-<a target="_blank" href="https://plus.google.com/"><i class="fa fa-google-plus heading-b"></i></a>
-<a target="_blank" href="https://vimeo.com/"><i class="fa fa-vimeo-square heading-b"></i></a>
-<a target="_blank" href="https://www.tumblr.com/"><i class="fa fa-tumblr heading-b"></i></a>
-</p>
-</div>
-</div>
-</div>
-<div class="caption">
-<p>
-<span class="title">Ishan Sharma</span>
-</p>
-</div>
-</div>
-</div>
+</div></div>
+
+
 </div>
 <!-- food & lodging end -->
 <div class="container">
-<h2>Team</h2>
+<h3>First Aid</h3>
 <div class="row">
-<div class="col-md-3 col-sm-6  col-xs-6">
+
+<div class="col-md-4 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Mike Johnson" src="images/our-team/ashutosh_singh.jpg" title="Mike Johnson" class="fluid-width">
+</div>
+</div>
+
+
+<div class="col-md-4 col-sm-6  col-xs-6">
+<div class="hover-overlay">
+<img alt="Mike Johnson" src="images/our-team/rajat kumar.jpg" title="Mike Johnson" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<p class="text-center text-uppercase heading-b">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-</p>
+
 </div>
 </div>
 </div>
 <div class="caption">
 <p>
-<span class="title">Ashutosh Singh</span>
+<span class="title">Rajat Kumar</span>
 </p>
 </div>
-</div>
-<div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay">
-<img alt="Jessica Specter" src="images/our-team/subesh_singh.jpg" title="Jessica Specter" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-<p class="text-center text-uppercase heading-b">
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p>
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter heading-b"></i></a>
-<a target="_blank" href="https://www.linkedin.com/"><i class="fa fa-linkedin heading-b"></i></a>
-<a target="_blank" href="https://plus.google.com/"><i class="fa fa-google-plus heading-b"></i></a>
-<a target="_blank" href="https://vimeo.com/"><i class="fa fa-vimeo-square heading-b"></i></a>
-<a target="_blank" href="https://www.tumblr.com/"><i class="fa fa-tumblr heading-b"></i></a>
-</p>
+
+
+<div class="col-md-4 col-sm-6  col-xs-6">
+<div class="hover-overlay"></div>
 </div>
 </div>
-</div>
-<div class="caption">
-<p>
-<span class="title">Subesh Singh</span>
-</p>
-</div>
-</div>
-<div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay">
-<img alt="Lynda Smith" src="images/our-team/pankaj_yadav.jpg" title="Lynda Smith" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-<p class="text-center text-uppercase heading-b">
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://www.flickr.com/"><i class="fa fa-flickr heading-b"></i></a>
-<a target="_blank" href="https://www.dropbox.com/"><i class="fa fa-dropbox heading-b"></i></a>
-<a target="_blank" href="https://www.xing.com/"><i class="fa fa-xing heading-b"></i></a>
- <a target="_blank" href="http://vk.com/"><i class="fa fa-vk heading-b"></i></a>
-</p>
-</div>
-</div>
-</div>
-<div class="caption">
-<p>
-<span class="title">Pankaj Yadav</span>
-</p>
-</div>
-</div>
-<div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay">
-<img alt="Lynda Smith" src="images/our-team/ishan_sharma.jpg" title="Lynda Smith" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-<p class="text-center text-uppercase heading-b">
-Exercitation ut enim ad minim veniam, quis nostrud ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p>	
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter heading-b"></i></a>
-<a target="_blank" href="https://www.linkedin.com/"><i class="fa fa-linkedin heading-b"></i></a>
-<a target="_blank" href="https://plus.google.com/"><i class="fa fa-google-plus heading-b"></i></a>
-<a target="_blank" href="https://vimeo.com/"><i class="fa fa-vimeo-square heading-b"></i></a>
-<a target="_blank" href="https://www.tumblr.com/"><i class="fa fa-tumblr heading-b"></i></a>
-</p>
-</div>
-</div>
-</div>
-<div class="caption">
-<p>
-<span class="title">Ishan Sharma</span>
-</p>
-</div>
-</div>
-</div>
+
 </div>
 <!-- first-aid end -->
 <div class="container">
-<h2>Team</h2>
+<h3>Publicity and Media</h3>
 <div class="row">
+
+<div class="col-md-1 col-sm-6  col-xs-6">
+<div class="hover-overlay">
+</div>
+</div>
+
+
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Mike Johnson" src="images/our-team/ashutosh_singh.jpg" title="Mike Johnson" class="fluid-width">
+<img alt="dharmendra chaudhary" src="images/our-team/dharmendra chaudhary.jpg" title="dharmendra chaudhary" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<p class="text-center text-uppercase heading-b">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-</p>
+
 </div>
 </div>
 </div>
 <div class="caption">
 <p>
-<span class="title">Ashutosh Singh</span>
+<span class="title">Dharmendra Chaudhary</span>
 </p>
 </div>
 </div>
+
+
+<div class="col-md-1 col-sm-6  col-xs-6">
+<div class="hover-overlay">
+</div>
+</div>
+
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Jessica Specter" src="images/our-team/subesh_singh.jpg" title="Jessica Specter" class="fluid-width">
+<img alt="vatsala" src="images/our-team/vatsala.jpg" title="vatsala" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<p class="text-center text-uppercase heading-b">
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p>
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter heading-b"></i></a>
-<a target="_blank" href="https://www.linkedin.com/"><i class="fa fa-linkedin heading-b"></i></a>
-<a target="_blank" href="https://plus.google.com/"><i class="fa fa-google-plus heading-b"></i></a>
-<a target="_blank" href="https://vimeo.com/"><i class="fa fa-vimeo-square heading-b"></i></a>
-<a target="_blank" href="https://www.tumblr.com/"><i class="fa fa-tumblr heading-b"></i></a>
-</p>
+
+
 </div>
 </div>
 </div>
 <div class="caption">
 <p>
-<span class="title">Subesh Singh</span>
+<span class="title">Vatsala Verma</span>
 </p>
 </div>
 </div>
+
+
+<div class="col-md-1 col-sm-6  col-xs-6">
+<div class="hover-overlay">
+</div>
+</div>
+
+
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Lynda Smith" src="images/our-team/pankaj_yadav.jpg" title="Lynda Smith" class="fluid-width">
+<img alt="brajbala yadav" src="images/our-team/brajbala_yadav.jpg" title="brajbala yadav" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<p class="text-center text-uppercase heading-b">
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://www.flickr.com/"><i class="fa fa-flickr heading-b"></i></a>
-<a target="_blank" href="https://www.dropbox.com/"><i class="fa fa-dropbox heading-b"></i></a>
-<a target="_blank" href="https://www.xing.com/"><i class="fa fa-xing heading-b"></i></a>
- <a target="_blank" href="http://vk.com/"><i class="fa fa-vk heading-b"></i></a>
-</p>
+
+
 </div>
 </div>
 </div>
 <div class="caption">
 <p>
-<span class="title">Pankaj Yadav</span>
+<span class="title">Brajbala Yadav</span>
 </p>
 </div>
 </div>
-<div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay">
-<img alt="Lynda Smith" src="images/our-team/ishan_sharma.jpg" title="Lynda Smith" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-<p class="text-center text-uppercase heading-b">
-Exercitation ut enim ad minim veniam, quis nostrud ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p>	
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter heading-b"></i></a>
-<a target="_blank" href="https://www.linkedin.com/"><i class="fa fa-linkedin heading-b"></i></a>
-<a target="_blank" href="https://plus.google.com/"><i class="fa fa-google-plus heading-b"></i></a>
-<a target="_blank" href="https://vimeo.com/"><i class="fa fa-vimeo-square heading-b"></i></a>
-<a target="_blank" href="https://www.tumblr.com/"><i class="fa fa-tumblr heading-b"></i></a>
-</p>
-</div>
-</div>
-</div>
-<div class="caption">
-<p>
-<span class="title">Ishan Sharma</span>
-</p>
-</div>
-</div>
-</div>
+
+
 </div>
 <!-- publicity & media end -->
 <div class="container">
-<h2>Team</h2>
+<h3>Web Team</h3>
 <div class="row">
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Mike Johnson" src="images/our-team/ashutosh_singh.jpg" title="Mike Johnson" class="fluid-width">
+
 <div class="overlay background-90-b">
-<div>
-<p class="text-center text-uppercase heading-b">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-</p>
+
 </div>
 </div>
-</div>
-<div class="caption">
-<p>
-<span class="title">Ashutosh Singh</span>
-</p>
-</div>
+
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="Jessica Specter" src="images/our-team/subesh_singh.jpg" title="Jessica Specter" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<p class="text-center text-uppercase heading-b">
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p>
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter heading-b"></i></a>
-<a target="_blank" href="https://www.linkedin.com/"><i class="fa fa-linkedin heading-b"></i></a>
-<a target="_blank" href="https://plus.google.com/"><i class="fa fa-google-plus heading-b"></i></a>
-<a target="_blank" href="https://vimeo.com/"><i class="fa fa-vimeo-square heading-b"></i></a>
-<a target="_blank" href="https://www.tumblr.com/"><i class="fa fa-tumblr heading-b"></i></a>
-</p>
+
+
 </div>
 </div>
 </div>
@@ -763,16 +526,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <img alt="Lynda Smith" src="images/our-team/pankaj_yadav.jpg" title="Lynda Smith" class="fluid-width">
 <div class="overlay background-90-b">
 <div>
-<p class="text-center text-uppercase heading-b">
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://www.flickr.com/"><i class="fa fa-flickr heading-b"></i></a>
-<a target="_blank" href="https://www.dropbox.com/"><i class="fa fa-dropbox heading-b"></i></a>
-<a target="_blank" href="https://www.xing.com/"><i class="fa fa-xing heading-b"></i></a>
- <a target="_blank" href="http://vk.com/"><i class="fa fa-vk heading-b"></i></a>
-</p>
+
+
 </div>
 </div>
 </div>
@@ -784,23 +539,9 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Lynda Smith" src="images/our-team/ishan_sharma.jpg" title="Lynda Smith" class="fluid-width">
+
 <div class="overlay background-90-b">
-<div>
-<p class="text-center text-uppercase heading-b">
-Exercitation ut enim ad minim veniam, quis nostrud ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p>	
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter heading-b"></i></a>
-<a target="_blank" href="https://www.linkedin.com/"><i class="fa fa-linkedin heading-b"></i></a>
-<a target="_blank" href="https://plus.google.com/"><i class="fa fa-google-plus heading-b"></i></a>
-<a target="_blank" href="https://vimeo.com/"><i class="fa fa-vimeo-square heading-b"></i></a>
-<a target="_blank" href="https://www.tumblr.com/"><i class="fa fa-tumblr heading-b"></i></a>
-</p>
-</div>
-</div>
-</div>
+
 <div class="caption">
 <p>
 <span class="title">Ishan Sharma</span>
@@ -820,13 +561,7 @@ Exercitation ut enim ad minim veniam, quis nostrud ullamco laboris nisi ut aliqu
 <h4><span class="highlight">Tvaran</span>2K18</h4>
 <div class="footer-description">
 <p>National Level Sports Fest</p>
-</div>
-<p class="social-links">
-<a target="_blank" href="#"><i class="fa fa-facebook"></i></a>
-<a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
-<a target="_blank" href="#"><i class="fa fa-youtube"></i></a>
-<a target="_blank" href="#"><i class="fa fa-linkedin"></i></a>
-</p>
+
 </div>
 <div class="col-md-3">
 <h5>Additional Links</h5>
