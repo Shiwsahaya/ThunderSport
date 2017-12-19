@@ -17,14 +17,6 @@
 <link rel="stylesheet" href="styles/style.min.css" />
 <link rel="stylesheet" href="theme-custom.css" />
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-<link rel="apple-touch-icon" href="apple-touch-icon.png" />
-<link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon-57x57.png" />
-<link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png" />
-<link rel="apple-touch-icon" sizes="76x76" href="apple-touch-icon-76x76.png" />
-<link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png" />
-<link rel="apple-touch-icon" sizes="120x120" href="apple-touch-icon-120x120.png" />
-<link rel="apple-touch-icon" sizes="144x144" href="apple-touch-icon-144x144.png" />
-<link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon-152x152.png" />
 <style type="text/css">
 	.justify
 	{
@@ -238,7 +230,7 @@ days.</p>
 <div class="row counters">
 <div class="col-md-3 counter background-25-b">
 <div class="count player row heading background-10-light">3500</div>
-<div class="caption">FootBall</div>
+<div class="caption">FootFall</div>
 </div>
 <div class="col-md-3 counter background-35-g">
 <div class="count player row heading background-10-light">50</div>
@@ -259,7 +251,6 @@ days.</p>
 </section>
 <section id="gallery">
 <div class="view">
-<img alt class="bg" src="images/bg/stocksnap/219FB68281.jpg" /><img alt class="bg" src="images/bg/stocksnap/219FB68281.jpg" />
 <div class="content no-bottom-padding colors-e">
 <div class="container">
 <h2>Gallery</h2>
@@ -280,7 +271,7 @@ days.</p>
 <div class="grid">
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["design"]'>
 <a href="#!portfolio-item-1.html" class="hover-overlay">
-<img alt="Project 1" src="images/portfolio/preview/1.jpg" />
+<img alt="Project 1" src="images/events/1.JPG" />
 <div class="overlay background-90-e">
 <div class="hidden-xs">
 <p class="title heading-e">Image</p>
@@ -292,7 +283,7 @@ days.</p>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["photography", "web", "video"]'>
 <a href="#!portfolio-item-2.html" class="hover-overlay">
-<img alt="Project 2" src="images/portfolio/preview/2.jpg" />
+<img alt="Project 2" src="images/events/2.JPG" />
 <div class="overlay background-90-e">
 <div class="hidden-xs">
 <p class="title heading-e">YouTube Video</p>
@@ -304,7 +295,7 @@ days.</p>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["photography", "design"]'>
 <a href="#!portfolio-item-3.html" class="hover-overlay">
-<img alt="Project 3" src="images/portfolio/preview/3.jpg" />
+<img alt="Project 3" src="images/events/3.JPG" />
 <div class="overlay background-90-e">
 <div class="hidden-xs">
 <p class="title heading-e">Slider</p>
@@ -316,7 +307,7 @@ days.</p>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["photography", "web", "video"]'>
 <a href="#!portfolio-item-4.html" class="hover-overlay">
-<img alt="Project 4" src="images/portfolio/preview/4.jpg" />
+<img alt="Project 4" src="images/events/4.JPG" />
 <div class="overlay background-90-e">
  <div class="hidden-xs">
 <p class="title heading-e">Vimeo Video</p>
@@ -328,7 +319,7 @@ days.</p>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["photography", "design"]'>
 <a href="#!portfolio-item-5.html" class="hover-overlay">
-<img alt="Project 5" src="images/portfolio/preview/5.jpg" />
+<img alt="Project 5" src="images/events/4.JPG" />
 <div class="overlay background-90-e">
 <div class="hidden-xs">
 <p class="title heading-e">Slider</p>
@@ -340,7 +331,7 @@ days.</p>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["photography", "web", "design"]'>
 <a href="#!portfolio-item-6.html" class="hover-overlay">
-<img alt="Project 6" src="images/portfolio/preview/6.jpg" />
+<img alt="Project 6" src="images/events/4.JPG" />
 <div class="overlay background-90-e">
 <div class="hidden-xs">
 <p class="title heading-e">Image</p>
@@ -352,7 +343,7 @@ days.</p>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["design", "video", "web"]'>
 <a href="#!portfolio-item-7.html" class="hover-overlay">
-<img alt="Project 7" src="images/portfolio/preview/7.jpg" />
+<img alt="Project 7" src="images/events/4.JPG" />
 <div class="overlay background-90-e">
 <div class="hidden-xs">
 <p class="title heading-e">Vimeo Video</p>
@@ -364,7 +355,7 @@ days.</p>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["web"]'>
 <a href="#!portfolio-item-8.html" class="hover-overlay">
-<img alt="Project 8" src="images/portfolio/preview/8.jpg" />
+<img alt="Project 8" src="images/events/4.JPG" />
 <div class="overlay background-90-e">
 <div class="hidden-xs">
 <p class="title heading-e">Image</p>
@@ -376,7 +367,7 @@ days.</p>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["photography", "design", "video", "web"]'>
 <a href="#!portfolio-item-9.html" class="hover-overlay">
-<img alt="Project 9" src="images/portfolio/preview/9.jpg" />
+<img alt="Project 9" src="images/events/4.JPG" />
 <div class="overlay background-90-e">
 <div class="hidden-xs">
 <p class="title heading-e">YouTube Video</p>
@@ -388,7 +379,7 @@ days.</p>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["photography", "design"]'>
 <a href="#!portfolio-item-10.html" class="hover-overlay">
-<img alt="Project 10" src="images/portfolio/preview/10.jpg" />
+<img alt="Project 10" src="images/events/4.JPG" />
 <div class="overlay background-90-e">
 <div class="hidden-xs">
 <p class="title heading-e">Vimeo Video</p>
@@ -400,7 +391,7 @@ days.</p>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["photography", "web"]'>
 <a href="#!portfolio-item-11.html" class="hover-overlay">
-<img alt="Project 11" src="images/portfolio/preview/11.jpg" />
+<img alt="Project 11" src="images/events/4.JPG" />
 <div class="overlay background-90-e">
 <div class="hidden-xs">
 <p class="title heading-e">Image</p>
@@ -412,7 +403,7 @@ days.</p>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["web", "design"]'>
 <a href="#!portfolio-item-12.html" class="hover-overlay">
-<img alt="Project 12" src="images/portfolio/preview/12.jpg" />
+<img alt="Project 12" src="images/events/4.JPG" />
 <div class="overlay background-90-e">
 <div class="hidden-xs">
 <p class="title heading-e">Slider</p>
@@ -575,7 +566,7 @@ Exercitation ut enim ad minim veniam, quis nostrud ullamco laboris nisi ut aliqu
 <div class="row">
 <div class="col-md-6 stretch-height pane">
 <div class="view fluid-height">
-<img alt class="bg" src="images/bg/JimLukach/69-edited.jpg" />
+<img alt class="bg" src="images/events/12.JPG" />
 <div class="content incut colors-d background-transparent">
 </div>
 </div>
