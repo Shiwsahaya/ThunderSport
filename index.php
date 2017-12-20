@@ -261,156 +261,85 @@ days.</p>
 <div class="filter">
 <ul class="nav nav-pills text-center">
 <li><a class="hover-effect" data-group="all" href="#">All</a></li>
+<!--
 <li><a class="hover-effect" data-group="web" href="#">Informals</a></li>
 <li><a class="hover-effect" data-group="video" href="#">Award Distribution Ceremony</a></li>
 <li><a class="hover-effect" data-group="photography" href="#">DJ Night</a></li>
 <li><a class="hover-effect" data-group="design" href="#">Games</a> </li>
+-->
 </ul>
 </div>
 <div class="row">
 <div class="grid">
-<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["design"]'>
-<a href="#!portfolio-item-1.html" class="hover-overlay">
+<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
+<a href="#" class="hover-overlay">
 <img alt="Project 1" src="images/events/1.JPG" />
-<div class="overlay background-90-e">
-<div class="hidden-xs">
-<p class="title heading-e">Image</p>
-<p class="text-center heading-e"><strong>Excepteur sint lorem ipsum dolor sit amet consectetur.</strong></p>
-<p class="text-center"><i class="fa fa-picture-o heading-e"></i></p>
-</div>
-</div>
 </a>
 </div>
-<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["photography", "web", "video"]'>
-<a href="#!portfolio-item-2.html" class="hover-overlay">
+<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
+<a href="#" class="hover-overlay">
 <img alt="Project 2" src="images/events/2.JPG" />
-<div class="overlay background-90-e">
-<div class="hidden-xs">
-<p class="title heading-e">YouTube Video</p>
-<p class="text-center heading-e"><strong>Excepteur sint lorem ipsum dolor sit amet consectetur.</strong></p>
-<p class="text-center"><i class="fa fa-youtube-square heading-e"></i></p>
-</div>
-</div>
+<img alt="game2" src="images/events/10.JPG" />
 </a>
 </div>
-<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["photography", "design"]'>
-<a href="#!portfolio-item-3.html" class="hover-overlay">
+<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
+<a href="#" class="hover-overlay">
 <img alt="Project 3" src="images/events/3.JPG" />
-<div class="overlay background-90-e">
-<div class="hidden-xs">
-<p class="title heading-e">Slider</p>
-<p class="text-center heading-e"><strong>Excepteur sint lorem ipsum dolor sit amet consectetur.</strong></p>
-<p class="text-center"><i class="fa fa-th heading-e"></i></p>
-</div>
-</div>
+<img alt="game13" src="images/events/13.JPG" />
 </a>
 </div>
-<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["photography", "web", "video"]'>
-<a href="#!portfolio-item-4.html" class="hover-overlay">
+<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
+<a href="#" class="hover-overlay">
 <img alt="Project 4" src="images/events/4.JPG" />
-<div class="overlay background-90-e">
- <div class="hidden-xs">
-<p class="title heading-e">Vimeo Video</p>
-<p class="text-center heading-e"><strong>Excepteur sint lorem ipsum dolor sit amet consectetur.</strong></p>
-<p class="text-center"><i class="fa fa-vimeo-square heading-e"></i></p>
-</div>
-</div>
+<img alt="game12" src="images/events/16.JPG" />
 </a>
 </div>
-<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["photography", "design"]'>
-<a href="#!portfolio-item-5.html" class="hover-overlay">
+<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
+<a href="#" class="hover-overlay">
 <img alt="Project 5" src="images/events/4.JPG" />
-<div class="overlay background-90-e">
-<div class="hidden-xs">
-<p class="title heading-e">Slider</p>
-<p class="text-center heading-e"><strong>Excepteur sint lorem ipsum dolor sit amet consectetur.</strong></p>
-<p class="text-center"><i class="fa fa-th heading-e"></i></p>
-</div>
-</div>
+<img alt="photography1" src="images/events/16.JPG" />
 </a>
 </div>
-<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["photography", "web", "design"]'>
-<a href="#!portfolio-item-6.html" class="hover-overlay">
+<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
+<a href="#" class="hover-overlay">
 <img alt="Project 6" src="images/events/4.JPG" />
-<div class="overlay background-90-e">
-<div class="hidden-xs">
-<p class="title heading-e">Image</p>
-<p class="text-center heading-e"><strong>Excepteur sint lorem ipsum dolor sit amet consectetur.</strong></p>
-<p class="text-center"><i class="fa fa-picture-o heading-e"></i></p>
-</div>
-</div>
+<img alt="image22" src="images/events/20.JPG" />
 </a>
 </div>
-<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["design", "video", "web"]'>
-<a href="#!portfolio-item-7.html" class="hover-overlay">
+<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
+<a href="#" class="hover-overlay">
 <img alt="Project 7" src="images/events/4.JPG" />
-<div class="overlay background-90-e">
-<div class="hidden-xs">
-<p class="title heading-e">Vimeo Video</p>
-<p class="text-center heading-e"><strong>Excepteur sint lorem ipsum dolor sit amet consectetur.</strong></p>
-<p class="text-center"><i class="fa fa-vimeo-square heading-e"></i></p>
-</div>
-</div>
+<img alt="game8" src="images/events/6.JPG" />
 </a>
 </div>
-<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["web"]'>
-<a href="#!portfolio-item-8.html" class="hover-overlay">
+<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
+<a href="#" class="hover-overlay">
 <img alt="Project 8" src="images/events/4.JPG" />
-<div class="overlay background-90-e">
-<div class="hidden-xs">
-<p class="title heading-e">Image</p>
-<p class="text-center heading-e"><strong>Excepteur sint lorem ipsum dolor sit amet consectetur.</strong></p>
-<p class="text-center"><i class="fa fa-picture-o heading-e"></i></p>
-</div>
-</div>
+<img alt="image72" src="images/events/14.JPG" />
 </a>
 </div>
-<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["photography", "design", "video", "web"]'>
-<a href="#!portfolio-item-9.html" class="hover-overlay">
+<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
+<a href="#" class="hover-overlay">
 <img alt="Project 9" src="images/events/4.JPG" />
-<div class="overlay background-90-e">
-<div class="hidden-xs">
-<p class="title heading-e">YouTube Video</p>
-<p class="text-center heading-e"><strong>Excepteur sint lorem ipsum dolor sit amet consectetur.</strong></p>
-<p class="text-center"><i class="fa fa-youtube-square heading-e"></i></p>
-</div>
-</div>
+<img alt="image23" src="images/events/22.JPG" />
 </a>
 </div>
-<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["photography", "design"]'>
-<a href="#!portfolio-item-10.html" class="hover-overlay">
+<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
+<a href="#" class="hover-overlay">
 <img alt="Project 10" src="images/events/4.JPG" />
-<div class="overlay background-90-e">
-<div class="hidden-xs">
-<p class="title heading-e">Vimeo Video</p>
-<p class="text-center heading-e"><strong>Excepteur sint lorem ipsum dolor sit amet consectetur.</strong></p>
- <p class="text-center"><i class="fa fa-vimeo-square heading-e"></i></p>
-</div>
-</div>
+<img alt="image56" src="images/events/26.JPG" />
 </a>
 </div>
-<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["photography", "web"]'>
-<a href="#!portfolio-item-11.html" class="hover-overlay">
+<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
+<a href="#" class="hover-overlay">
 <img alt="Project 11" src="images/events/4.JPG" />
-<div class="overlay background-90-e">
-<div class="hidden-xs">
-<p class="title heading-e">Image</p>
-<p class="text-center heading-e"><strong>Excepteur sint lorem ipsum dolor sit amet consectetur.</strong></p>
-<p class="text-center"><i class="fa fa-picture-o heading-e"></i></p>
-</div>
-</div>
+<img alt="image32" src="images/events/26.JPG" />
 </a>
 </div>
-<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["web", "design"]'>
-<a href="#!portfolio-item-12.html" class="hover-overlay">
+<div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
+<a href="#" class="hover-overlay">
 <img alt="Project 12" src="images/events/4.JPG" />
-<div class="overlay background-90-e">
-<div class="hidden-xs">
-<p class="title heading-e">Slider</p>
-<p class="text-center heading-e"><strong>Excepteur sint lorem ipsum dolor sit amet consectetur.</strong></p>
-<p class="text-center"><i class="fa fa-th heading-e"></i></p>
-</div>
-</div>
+<img alt="image89" src="images/events/7.JPG" />
 </a>
 </div>
 </div>

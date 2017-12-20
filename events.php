@@ -22,6 +22,9 @@
 	{
 		text-align: justify;
 	}
+
+
+}
 </style>
 </head>
 <body class="state1 background-100-e">
@@ -136,30 +139,90 @@
 <div class="row icon-set">
 <div class="col-md-3 text-center">
 <p>
-<i class="li_eye circle scroll-in-animation background-20 heading" data-animation="fadeInUp"></i>
+<img src="images/svg/athletic.svg" height="150px" />
 </p>
 <p class="title"><span class="underline-text">Athletics</span>
 </div>
 <div class="col-md-3 text-center">
 <p>
-<i class="li_like circle scroll-in-animation background-20 heading" data-animation="fadeInUp"></i>
+<img src="images/svg/football.svg" height="150px" />
 </p>
 <p class="title"><span class="underline-text">FootBall</span></p>
 
 </div>
 <div class="col-md-3 text-center">
 <p>
-<i class="li_paperplane circle scroll-in-animation background-20 heading" data-animation="fadeInUp"></i>
+<img src="images/svg/basketball.svg" height="150px" />
 </p>
 <p class="title"><span class="underline-text">Basket Ball</span></p>
 </div>
 <div class="col-md-3 text-center">
 <p>
-<i class="li_lab circle scroll-in-animation background-20 heading" data-animation="fadeInUp"></i>
+<img src="images/svg/cricket.svg" height="150px"  />
 </p>
 <p class="title"><span class="underline-text">CRICKET</span></p>
 </div>
 </div>
+
+
+<div class="row icon-set">
+<div class="col-md-3 text-center">
+<p>
+<img src="images/svg/badminton.svg" height="150px" />
+</p>
+<p class="title"><span class="underline-text">Badminton</span>
+</div>
+<div class="col-md-3 text-center">
+<p>
+<img src="images/svg/carrom.svg" height="150px" />
+</p>
+<p class="title"><span class="underline-text">Carrom</span></p>
+
+</div>
+<div class="col-md-3 text-center">
+<p>
+<img src="images/svg/chess.svg" height="150px" />
+</p>
+<p class="title"><span class="underline-text">Chess</span></p>
+</div>
+<div class="col-md-3 text-center">
+<p>
+<img src="images/svg/hockey.svg" height="150px"  />
+</p>
+<p class="title"><span class="underline-text">Hockey</span></p>
+</div>
+</div>
+
+
+<div class="row icon-set">
+<div class="col-md-3 text-center">
+<p>
+<img src="images/svg/kabaddi.svg" height="150px" />
+</p>
+<p class="title"><span class="underline-text">Kabaddi</span>
+</div>
+<div class="col-md-3 text-center">
+<p>
+<img src="images/svg/lan_gaming.svg" height="150px" />
+</p>
+<p class="title"><span class="underline-text">Lan Gaming</span></p>
+
+</div>
+<div class="col-md-3 text-center">
+<p>
+<img src="images/svg/table_tenis.svg" height="150px" />
+</p>
+<p class="title"><span class="underline-text">Table Tennis</span></p>
+</div>
+<div class="col-md-3 text-center">
+<p>
+<img src="images/svg/vollyball.svg" height="150px"  />
+</p>
+<p class="title"><span class="underline-text">Volleyball</span></p>
+</div>
+</div>
+
+
 </div>
 </div>
 </div>
