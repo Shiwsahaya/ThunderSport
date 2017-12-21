@@ -22,9 +22,49 @@
 	{
 		text-align: justify;
 	}
-
-
+#btncolor
+{
+color:#fff;
 }
+
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 25px;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+/* Modal Content */
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 30%;
+}
+
+/* The Close Button */
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
 </style>
 </head>
 <body class="state1 background-100-e">
@@ -141,26 +181,81 @@
 <p>
 <img src="images/svg/athletic.svg" height="150px" />
 </p>
-<p class="title"><span class="underline-text">Athletics</span>
+<a href="#" id="myBtn" class="btncolor">
+<p class="title"><span class="underline-text" style="color:white;">Athletics</span></p>
+</a>
 </div>
+<!-- Model 1 start -->
+
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="row container">
+    	<div class="col-md-1"></div>
+    	<div class="col-md-10">	
+    		<div style="margin-left: 10%; ">
+    			<h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
+    			<div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1ZJtDdN38BOB-umJVS5M2HX3DmIFMn4Bs8q0V44zO7vQ/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
+    			
+    		</div>
+    	</div>
+    	<div class="col-md-1"></div>
+    </div>
+  </div>
+
+</div>
+<!-- Model 1 end -->
+
 <div class="col-md-3 text-center">
 <p>
 <img src="images/svg/football.svg" height="150px" />
 </p>
-<p class="title"><span class="underline-text">FootBall</span></p>
+<a href="#" id="myBtn1" class="btncolor">
+<p class="title"><span class="underline-text" style="color:white;">Football</span></p>
+</a>
+</div>
+
+<!-- Model 1 start -->
+
+<div id="myModal1" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="row container">
+    	<div class="col-md-1"></div>
+    	<div class="col-md-10">	
+    		<div style="margin-left: 10%; ">
+    			<h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
+    			<div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/17Wrb4o2KGrecS6PNmozIXwjqpcoBXegcNcASTMoQrhg/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
+    			
+    		</div>
+    	</div>
+    	<div class="col-md-1"></div>
+    </div>
+  </div>
 
 </div>
+<!-- Model 1 end -->
+
+
 <div class="col-md-3 text-center">
 <p>
 <img src="images/svg/basketball.svg" height="150px" />
 </p>
-<p class="title"><span class="underline-text">Basket Ball</span></p>
+<a href="#" class="btncolor">
+<p class="title"><span class="underline-text" style="color:white;">Basket ball</span></p>
+</a>
 </div>
 <div class="col-md-3 text-center">
 <p>
 <img src="images/svg/cricket.svg" height="150px"  />
 </p>
-<p class="title"><span class="underline-text">CRICKET</span></p>
+<a href="#" class="btncolor">
+<p class="title"><span class="underline-text" style="color:white;">Cricket</span></p>
+</a>
 </div>
 </div>
 
@@ -170,26 +265,34 @@
 <p>
 <img src="images/svg/badminton.svg" height="150px" />
 </p>
-<p class="title"><span class="underline-text">Badminton</span>
+<a href="#" class="btncolor">
+<p class="title"><span class="underline-text" style="color:white;">Badminton</span></p>
+</a>
 </div>
 <div class="col-md-3 text-center">
 <p>
 <img src="images/svg/carrom.svg" height="150px" />
 </p>
-<p class="title"><span class="underline-text">Carrom</span></p>
+<a href="#" class="btncolor">
+<p class="title"><span class="underline-text" style="color:white;">Carrom</span></p>
+</a>
 
 </div>
 <div class="col-md-3 text-center">
 <p>
 <img src="images/svg/chess.svg" height="150px" />
 </p>
-<p class="title"><span class="underline-text">Chess</span></p>
+<a href="#" class="btncolor">
+<p class="title"><span class="underline-text" style="color:white;">Chess</span></p>
+</a>
 </div>
 <div class="col-md-3 text-center">
 <p>
 <img src="images/svg/hockey.svg" height="150px"  />
 </p>
-<p class="title"><span class="underline-text">Hockey</span></p>
+<a href="#" class="btncolor">
+<p class="title"><span class="underline-text" style="color:white;">Hockey</span></p>
+</a>
 </div>
 </div>
 
@@ -199,26 +302,34 @@
 <p>
 <img src="images/svg/kabaddi.svg" height="150px" />
 </p>
-<p class="title"><span class="underline-text">Kabaddi</span>
+<a href="#" class="btncolor">
+<p class="title"><span class="underline-text" style="color:white;">kabaddi</span></p>
+</a>
 </div>
 <div class="col-md-3 text-center">
 <p>
 <img src="images/svg/lan_gaming.svg" height="150px" />
 </p>
-<p class="title"><span class="underline-text">Lan Gaming</span></p>
+<a href="#" class="btncolor">
+<p class="title"><span class="underline-text" style="color:white;">Lan Gaming</span></p>
+</a>
 
 </div>
 <div class="col-md-3 text-center">
 <p>
 <img src="images/svg/table_tenis.svg" height="150px" />
 </p>
-<p class="title"><span class="underline-text">Table Tennis</span></p>
+<a href="#" class="btncolor">
+<p class="title"><span class="underline-text" style="color:white;">Table Tenis</span></p>
+</a>
 </div>
 <div class="col-md-3 text-center">
 <p>
 <img src="images/svg/vollyball.svg" height="150px"  />
 </p>
-<p class="title"><span class="underline-text">Volleyball</span></p>
+<a href="#" class="btncolor">
+<p class="title"><span class="underline-text" style="color:white;">Vollyball</span></p>
+</a>
 </div>
 </div>
 
@@ -282,6 +393,72 @@ Events-+91 9695015595
 			}
 		}
 		</script>
+
+
+<script>
+// Get the modal
+var modal = document.getElementById('myModal');
+
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks the button, open the modal 
+btn.onclick = function() {
+    modal.style.display = "block";
+}
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+    modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+</script>
+
+
+<script>
+// Get the modal
+var modal = document.getElementById('myModal1');
+
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn1");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks the button, open the modal 
+btn.onclick = function() {
+    modal.style.display = "block";
+}
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+    modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+</script>
+
+
+
+
+
+
+
+
 <script src="bower_components/less.js/dist/less.min.js"></script>
 <script src="bower_components/jquery/dist/jquery.min.js"></script>
 <script src="lib/tween/tween.min.js"></script>
