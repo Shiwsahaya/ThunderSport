@@ -387,14 +387,7 @@ days.</p>
 <div class="row">
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Mike Johnson" src="images/our-team/ashutosh_singh.jpg" title="Mike Johnson" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-<p class="text-center text-uppercase heading-b">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-</p>
-</div>
-</div>
+<img alt="Mike Johnson" src="images/our-team/ashutosh_singh.jpg" title="Ashutosh Singh" class="fluid-width">
 </div>
 <div class="caption">
 <p>
@@ -404,22 +397,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Jessica Specter" src="images/our-team/subesh_singh.jpg" title="Jessica Specter" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-<p class="text-center text-uppercase heading-b">
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p>
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter heading-b"></i></a>
-<a target="_blank" href="https://www.linkedin.com/"><i class="fa fa-linkedin heading-b"></i></a>
-<a target="_blank" href="https://plus.google.com/"><i class="fa fa-google-plus heading-b"></i></a>
-<a target="_blank" href="https://vimeo.com/"><i class="fa fa-vimeo-square heading-b"></i></a>
-<a target="_blank" href="https://www.tumblr.com/"><i class="fa fa-tumblr heading-b"></i></a>
-</p>
-</div>
-</div>
+<img alt="Jessica Specter" src="images/our-team/subesh_singh.jpg" title="Subesh Singh" class="fluid-width">
+
 </div>
 <div class="caption">
 <p>
@@ -429,21 +408,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Lynda Smith" src="images/our-team/pankaj_yadav.jpg" title="Lynda Smith" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-<p class="text-center text-uppercase heading-b">
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://www.flickr.com/"><i class="fa fa-flickr heading-b"></i></a>
-<a target="_blank" href="https://www.dropbox.com/"><i class="fa fa-dropbox heading-b"></i></a>
-<a target="_blank" href="https://www.xing.com/"><i class="fa fa-xing heading-b"></i></a>
- <a target="_blank" href="http://vk.com/"><i class="fa fa-vk heading-b"></i></a>
-</p>
-</div>
-</div>
+<img alt="Lynda Smith" src="images/our-team/pankaj_yadav.jpg" title="Pankaj Yadav" class="fluid-width">
+
 </div>
 <div class="caption">
 <p>
@@ -453,22 +419,8 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Lynda Smith" src="images/our-team/ishan_sharma.jpg" title="Lynda Smith" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-<p class="text-center text-uppercase heading-b">
-Exercitation ut enim ad minim veniam, quis nostrud ullamco laboris nisi ut aliquip ex ea commodo consequat.
-</p>	
-<div class="separator-small"></div>
-<p class="text-center">
-<a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter heading-b"></i></a>
-<a target="_blank" href="https://www.linkedin.com/"><i class="fa fa-linkedin heading-b"></i></a>
-<a target="_blank" href="https://plus.google.com/"><i class="fa fa-google-plus heading-b"></i></a>
-<a target="_blank" href="https://vimeo.com/"><i class="fa fa-vimeo-square heading-b"></i></a>
-<a target="_blank" href="https://www.tumblr.com/"><i class="fa fa-tumblr heading-b"></i></a>
-</p>
-</div>
-</div>
+<img alt="Lynda Smith" src="images/our-team/ishan_sharma.jpg" title="Ishan Sharma" class="fluid-width">
+
 </div>
 <div class="caption">
 <p>
@@ -478,7 +430,7 @@ Exercitation ut enim ad minim veniam, quis nostrud ullamco laboris nisi ut aliqu
 </div>
 </div>
 <div align="center" style="margin-bottom: 12px;">
-<a href="team.html" class="button background-60-f heading-f border-hard">View All Team Members</a>
+<a href="team.php" class="button background-60-f heading-f border-hard">View All Team Members</a>
 </div>
 <h2>CROWD AND AMBIENCE</h2>
 </div>

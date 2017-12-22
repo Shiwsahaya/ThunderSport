@@ -136,12 +136,7 @@
 <div class="row">
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Mike Johnson" src="images/our-team/ashutosh_singh.jpg" title="Mike Johnson" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-
-</div>
-</div>
+<img alt="Mike Johnson" src="images/our-team/ashutosh_singh.jpg" title="Ashutosh Singh" class="fluid-width">
 </div>
 <div class="caption">
 <p>
@@ -151,11 +146,10 @@
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Jessica Specter" src="images/our-team/subesh_singh.jpg" title="Jessica Specter" class="fluid-width">
+<img alt="Jessica Specter" src="images/our-team/subesh_singh.jpg" title="Subesh Singh" class="fluid-width">
+<!--
 <div class="overlay background-90-b">
 <div>
-
-<!--
 <div class="separator-small"></div>
 <p class="text-center">
 <a target="_blank" href="https://twitter.com/"><i class="fa fa-twitter heading-b"></i></a>
@@ -164,9 +158,9 @@
 <a target="_blank" href="https://vimeo.com/"><i class="fa fa-vimeo-square heading-b"></i></a>
 <a target="_blank" href="https://www.tumblr.com/"><i class="fa fa-tumblr heading-b"></i></a>
 </p>
--->
 </div> 
 </div>
+-->
 </div>
 <div class="caption">
 <p>
@@ -176,12 +170,8 @@
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Lynda Smith" src="images/our-team/pankaj_yadav.jpg" title="Lynda Smith" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
+<img alt="Lynda Smith" src="images/our-team/pankaj_yadav.jpg" title="Pankaj Yadav" class="fluid-width">
 
-</div>
-</div>
 </div>
 <div class="caption">
 <p>
@@ -191,13 +181,8 @@
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Lynda Smith" src="images/our-team/ishan_sharma.jpg" title="Lynda Smith" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
+<img alt="Lynda Smith" src="images/our-team/ishan_sharma.jpg" title="Ishan Sharma" class="fluid-width">
 
-
-</div>
-</div>
 </div>
 <div class="caption">
 <p>
@@ -214,11 +199,7 @@
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="Arvind yadav" src="images/our-team/arvind_yadav.jpg" title="Arvind Yadav" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
 
-</div>
-</div>
 </div>
 <div class="caption">
 <p>
@@ -228,13 +209,8 @@
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="ankit singh" src="images/our-team/ankita_singh.jpg" height="5px" width="5px" title="Jessica Specter" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
+<img alt="ankit singh" src="images/our-team/ankita_singh.jpg" height="5px" width="5px" title="Ankita Singh" class="fluid-width">
 
-
-</div>
-</div>
 </div>
 <div class="caption">
 <p>
@@ -244,13 +220,8 @@
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="shashank tiwari" src="images/our-team/shashank_tiwari.jpg" title="shashank tiwari" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
+<img alt="shashank tiwari" src="images/our-team/shashank_tiwari.jpg" title="Shashank Tiwari" class="fluid-width">
 
-
-</div>
-</div>
 </div>
 <div class="caption">
 <p>
@@ -261,12 +232,7 @@
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="abhishek kumar" src="images/our-team/Abhishek_kumar.jpg" title="abhishek kumar" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
 
-
-</div>
-</div>
 </div>
 <div class="caption">
 <p>
@@ -288,11 +254,7 @@
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="deepshikha singh" src="images/our-team/deepshikha singh.jpg" title="deepshikha singh" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
 
-</div>
-</div>
 </div>
 <div class="caption">
 <p>
@@ -303,11 +265,6 @@
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="nidhi srivastava" src="images/our-team/nidhi srivastava.jpg" title="nidhi srivastava" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-
-</div>
-</div>
 </div>
 <div class="caption">
 <p>
@@ -315,11 +272,6 @@
 </p>
 </div>
 </div>
-
-<div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay"></div></div>
-
-
 </div>
 <!--management team end -->
 <div class="container">
@@ -332,11 +284,6 @@
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="partik singh" src="images/our-team/pratik_singh.jpg" title="partik singh" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-
-</div>
-</div>
 </div>
 <div class="caption">
 <p>
@@ -347,12 +294,7 @@
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="roli verma" src="images/our-team/roli_verma.jpg" title="Roli verma" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
 
-
-</div>
-</div>
 </div>
 <div class="caption">
 <p>
@@ -363,12 +305,6 @@
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="garvita garg" src="images/our-team/garvita_garg.jpg" title="garvita garg" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-
-
-</div>
-</div>
 </div>
 <div class="caption">
 <p>
@@ -396,12 +332,8 @@
 
 <div class="col-md-4 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Mike Johnson" src="images/our-team/rajat kumar.jpg" title="Mike Johnson" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
+<img alt="Mike Johnson" src="images/our-team/rajat kumar.jpg" title="Rajat kumar" class="fluid-width">
 
-</div>
-</div>
 </div>
 <div class="caption">
 <p>
@@ -430,11 +362,7 @@
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="dharmendra chaudhary" src="images/our-team/dharmendra chaudhary.jpg" title="dharmendra chaudhary" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
 
-</div>
-</div>
 </div>
 <div class="caption">
 <p>
@@ -452,12 +380,7 @@
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="vatsala" src="images/our-team/vatsala.jpg" title="vatsala" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
 
-
-</div>
-</div>
 </div>
 <div class="caption">
 <p>
@@ -476,12 +399,7 @@
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="brajbala yadav" src="images/our-team/brajbala_yadav.jpg" title="brajbala yadav" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
 
-
-</div>
-</div>
 </div>
 <div class="caption">
 <p>
@@ -497,56 +415,28 @@
 <h3>Web Team</h3>
 <div class="row">
 <div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay">
-
-<div class="overlay background-90-b">
-
-</div>
-</div>
-
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Jessica Specter" src="images/our-team/subesh_singh.jpg" title="Jessica Specter" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-
-
-</div>
-</div>
+<img alt="Jessica Specter" src="images/our-team/Adarsh.jpg" title="Adarsh Pandey" class="fluid-width">
 </div>
 <div class="caption">
 <p>
-<span class="title">Subesh Singh</span>
+<span class="title">Adarsh Pandey</span>
 </p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Lynda Smith" src="images/our-team/pankaj_yadav.jpg" title="Lynda Smith" class="fluid-width">
-<div class="overlay background-90-b">
-<div>
-
-
-</div>
-</div>
+<img alt="Lynda Smith" src="images/our-team/shiw.jpg" title="Shiwsahaya Maurya" class="fluid-width">
 </div>
 <div class="caption">
 <p>
-<span class="title">Pankaj Yadav</span>
+<span class="title">Shiwsahaya Maurya</span>
 </p>
 </div>
 </div>
-<div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay">
 
-<div class="overlay background-90-b">
-
-<div class="caption">
-<p>
-<span class="title">Ishan Sharma</span>
-</p>
-</div>
 </div>
 </div>
 </div>
@@ -561,7 +451,13 @@
 <h4><span class="highlight">Tvaran</span>2K18</h4>
 <div class="footer-description">
 <p>National Level Sports Fest</p>
-
+</div>
+<p class="social-links">
+<a target="_blank" href="#"><i class="fa fa-facebook"></i></a>
+<a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
+<a target="_blank" href="#"><i class="fa fa-youtube"></i></a>
+<a target="_blank" href="#"><i class="fa fa-linkedin"></i></a>
+</p>
 </div>
 <div class="col-md-3">
 <h5>Additional Links</h5>
@@ -592,6 +488,7 @@ Events-+91 9695015595
 © 2018 All Rights Reserved. <a href="#" class="open-overlay-window heading" data-overlay-window=".credits-overlay">TVARAN TEAM.</a>
 </div>
 </footer>
+
 
 <script>
 		if (typeof(atob) == "undefined")
