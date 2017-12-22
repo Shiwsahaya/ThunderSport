@@ -273,73 +273,63 @@ days.</p>
 <div class="grid">
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
 <a href="#" class="hover-overlay">
-<img alt="Project 1" src="images/events/1.JPG" />
+<img alt="Project 1" src="images/events/4.JPG" />
 </a>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
 <a href="#" class="hover-overlay">
-<img alt="Project 2" src="images/events/2.JPG" />
-<img alt="game2" src="images/events/10.JPG" />
+<img alt="Project 2" src="images/events/10.JPG" />
 </a>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
 <a href="#" class="hover-overlay">
-<img alt="Project 3" src="images/events/3.JPG" />
-<img alt="game13" src="images/events/13.JPG" />
+<img alt="Project 3" src="images/events/13.JPG" />
 </a>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
 <a href="#" class="hover-overlay">
-<img alt="Project 4" src="images/events/4.JPG" />
-<img alt="game12" src="images/events/16.JPG" />
+<img alt="Project 4" src="images/events/16.JPG" />
 </a>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
 <a href="#" class="hover-overlay">
-<img alt="Project 5" src="images/events/4.JPG" />
-<img alt="photography1" src="images/events/16.JPG" />
+<img alt="Project 5" src="images/events/16.JPG" />
 </a>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
 <a href="#" class="hover-overlay">
-<img alt="Project 6" src="images/events/4.JPG" />
-<img alt="image22" src="images/events/20.JPG" />
+<img alt="Project 6" src="images/events/20.JPG" />
 </a>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
 <a href="#" class="hover-overlay">
-<img alt="Project 7" src="images/events/4.JPG" />
-<img alt="game8" src="images/events/6.JPG" />
+
+<img alt="project 7" src="images/events/11.JPG" />
 </a>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
 <a href="#" class="hover-overlay">
-<img alt="Project 8" src="images/events/4.JPG" />
-<img alt="image72" src="images/events/14.JPG" />
+<img alt="project 8" src="images/events/14.JPG" />
 </a>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
 <a href="#" class="hover-overlay">
-<img alt="Project 9" src="images/events/4.JPG" />
-<img alt="image23" src="images/events/22.JPG" />
+<img alt="project 9" src="images/events/22.JPG" />
 </a>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
 <a href="#" class="hover-overlay">
-<img alt="Project 10" src="images/events/4.JPG" />
-<img alt="image56" src="images/events/26.JPG" />
+<img alt="project 10" src="images/events/26.JPG" />
 </a>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
 <a href="#" class="hover-overlay">
-<img alt="Project 11" src="images/events/4.JPG" />
-<img alt="image32" src="images/events/26.JPG" />
+<img alt="Project 11" src="images/events/26.JPG" />
 </a>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
 <a href="#" class="hover-overlay">
-<img alt="Project 12" src="images/events/4.JPG" />
-<img alt="image89" src="images/events/7.JPG" />
+<img alt="image89" src="images/events/24.JPG" />
 </a>
 </div>
 </div>
@@ -355,29 +345,34 @@ days.</p>
 <div class="row icon-set">
 <div class="col-md-3 text-center">
 <p>
-<i class="li_eye circle scroll-in-animation background-20 heading" data-animation="fadeInUp"></i>
+<img src="images/svg/Athletic.svg" height="150px"  />
 </p>
 <p class="title"><span class="underline-text">Athletics</span>
 </div>
 <div class="col-md-3 text-center">
 <p>
-<i class="li_like circle scroll-in-animation background-20 heading" data-animation="fadeInUp"></i>
+<img src="images/svg/football.svg" height="150px"  />
 </p>
 <p class="title"><span class="underline-text">FootBall</span></p>
 
 </div>
 <div class="col-md-3 text-center">
 <p>
-<i class="li_paperplane circle scroll-in-animation background-20 heading" data-animation="fadeInUp"></i>
+<img src="images/svg/basketball.svg" height="150px"  />
 </p>
 <p class="title"><span class="underline-text">Basket Ball</span></p>
 </div>
-<div class="col-md-3 text-center">
+<div class="col-md-3 text-center" >
 <p>
-<i class="li_lab circle scroll-in-animation background-20 heading" data-animation="fadeInUp"></i>
+<img src="images/svg/cricket.svg" height="150px"  />
 </p>
 <p class="title"><span class="underline-text">CRICKET</span></p>
 </div>
+ </div>
+ <div style="margin-top: 10px;">
+	<center>
+<a href="events.php" class="button background-60-f heading-f border-hard">View All Games</a>
+</center>
 </div>
 </div>
 </div>
