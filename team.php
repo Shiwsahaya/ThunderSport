@@ -206,7 +206,7 @@
 <div class="row">
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Deepak Kumar" src="images/our-team/deepshikha singh.jpg" title="Deepak Kumar" class="fluid-width" style="height:250px;width: 90%;">
+<img alt="Deepak Kumar" src="images/our-team/deepak.jpg" title="Deepak Kumar" class="fluid-width" style="height:250px;width: 90%;">
 
 </div>
 <div class="caption">
@@ -230,7 +230,7 @@
 
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Vishant Chaudhary" src="images/our-team/deepshikha singh.jpg" title="Vishant Chaudhary" class="fluid-width" style="height:250px;width: 90%;">
+<img alt="Vishant Chaudhary" src="images/our-team/vishant.jpg" title="Vishant Chaudhary" class="fluid-width" style="height:250px;width: 90%;">
 
 </div>
 <div class="caption">
@@ -287,11 +287,11 @@
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="garvita garg" src="images/our-team/garvita_garg.jpg" title="garvita garg" class="fluid-width" style="height:250px;width: 90%;">
+<img alt="shashank" src="images/our-team/.jpg" title="Shashank Mishra" class="fluid-width" style="height:250px;width: 90%;">
 </div>
 <div class="caption">
 <p>
-<span class="title">Garvita Garg</span>
+<span class="title">Shashank Mishra</span>
 </p>
 </div>
 </div>
