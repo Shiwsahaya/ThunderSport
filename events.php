@@ -74,7 +74,7 @@ color:#fff;
 <div class="content no-top-padding no-bottom-padding  full-height">
 <div class="container-fluid  full-height">
 <div class="row full-height">
-<a href="index.php#events" class="col-md-6 colors-e background-95-e full-height">
+<a href="http://tvaran2k18.org/" class="col-md-6 colors-e background-95-e full-height">
 <div>
 <span class="side-title">Events</span>
 </div>
@@ -90,17 +90,17 @@ color:#fff;
 </div>
 <div class="container-fluid  half-height">
 <div class="row full-height">
-<a href="index.php#contact" class="col-md-4 colors-g background-solid full-height border-bottom border-lite">
+<a href="http://tvaran2k18.org/#contact" class="col-md-4 colors-g background-solid full-height border-bottom border-lite">
 <div>
 <span class="side-title">Contact Us</span>
 </div>
 </a>
-<a href="index.php#sponsors" class="col-md-4 colors-g background-solid full-height border-bottom border-left border-lite">
+<a href="http://tvaran2k18.org/#sponsors" class="col-md-4 colors-g background-solid full-height border-bottom border-left border-lite">
 <div>
 <span class="side-title">Sponsors</span>	
 </div>
 </a>
-<a href="index.php#numbers" class="col-md-4 colors-g background-solid full-height border-bottom border-left border-lite">
+<a href="http://tvaran2k18.org/#numbers" class="col-md-4 colors-g background-solid full-height border-bottom border-left border-lite">
 <div>
 <span class="side-label">Some Facts</span>
 <span class="side-title">Our Numbers</span>
@@ -124,17 +124,17 @@ color:#fff;
 <div class="navbar-header">
 <a class="menu-toggle ext-nav-toggle visible-xs-block" data-target=".ext-nav" href="#"><span></span></a>
 <a class="menu-toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" href="#"><span></span></a>
-<a class="navbar-brand" href="index.php">Tvaran 2k18</a>
+<a class="navbar-brand" href="http://tvaran2k18.org/">Tvaran 2k18</a>
 </div>
 <div class="collapse navbar-collapse">
 <ul class="nav navbar-nav navbar-right">
-<li><a href="index.php#home" class="hover-effect">Home</a></li>
-<li><a href="index.php#about" class="hover-effect">About</a></li>
-<li><a href="index.php#events" class="hover-effect">Events</a></li>
-<li><a href="index.php#gallery" class="hover-effect">Gallery</a></li>
-<li><a href="index.php#sponsors" class="hover-effect">Sponsors</a></li>
-<li><a href="index.php#team" class="hover-effect">Our Team</a></li>
-<li><a href="index.php#contact" class="hover-effect">Contact</a></li>
+<li><a href="http://tvaran2k18.org/#home" class="hover-effect">Home</a></li>
+<li><a href="http://tvaran2k18.org/#about" class="hover-effect">About</a></li>
+<li><a href="http://tvaran2k18.org/#events" class="hover-effect">Events</a></li>
+<li><a href="http://tvaran2k18.org/#gallery" class="hover-effect">Gallery</a></li>
+<li><a href="http://tvaran2k18.org/#sponsors" class="hover-effect">Sponsors</a></li>
+<li><a href="http://tvaran2k18.org/#team" class="hover-effect">Our Team</a></li>
+<li><a href="http://tvaran2k18.org/#contact" class="hover-effect">Contact</a></li>
 <li class="hidden-xs"><a class="menu-toggle ext-nav-toggle" data-target=".ext-nav" href="#"><span></span></a></li>
 </ul>
 </div>
@@ -515,9 +515,9 @@ color:#fff;
 <h5>Additional Links</h5>
 <ul class="simple">
 <li><a href="#">Blog</a></li>
-<li><a href="#about">About</a></li>
-<li><a href="#events">Events</a></li>
-<li><a href="#numbers">Our Numbers</a></li>
+<li><a href="http://tvaran2k18.org/#about">About</a></li>
+<li><a href="http://tvaran2k18.org/#events">Events</a></li>
+<li><a href="http://tvaran2k18.org/#numbers">Our Numbers</a></li>
 </ul>
 </div>
 <div class="col-md-3">

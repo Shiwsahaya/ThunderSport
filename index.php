@@ -138,7 +138,7 @@
 </div>
 
 <div class="youtube-bg" data-video="HYyHJsEwx60" data-mute="yes" data-volume="50" data-alternative="images/bg/tvaran_image.jpg"></div>
-<section id="home">
+<section id="home" name="home">
 <div class="view">
 <div class="content home-mary full-size colors-a">
 <div class="container">
@@ -162,7 +162,7 @@
 </div>
 </div>
 </section>
-<section id="about">
+<section id="about" name="about">
 <div class="view">
 <img alt class="bg" src="images/bg/pexels/autumn-avenue-path-946.jpg" /><img alt class="bg" src="images/bg/pexels/autumn-avenue-path-946.jpg" />
 <div class="content colors-e">
@@ -221,7 +221,7 @@ days.</p>
 </div>
 </div>
 </section>
-<section id="numbers">
+<section id="numbers" name="numbers">
 <div class="view" id="numbers">
 <div class="content half-size colors-h">
 <div class="container-fluid">
@@ -249,7 +249,7 @@ days.</p>
 </div>
 </div>
 </section>
-<section id="gallery">
+<section id="gallery" name="gallery">
 <div class="view">
 <div class="content no-bottom-padding colors-e">
 <div class="container">
@@ -378,7 +378,7 @@ days.</p>
 </div>
 </div>
 </section>
-<section id="team">
+<section id="team" name="team">
 <div class="view">
 <img alt class="bg" src="images/bg/stocksnap/3F7D411CC8.jpg" /><img alt class="bg" src="images/bg/stocksnap/3F7D411CC8.jpg" />
 <div class="content colors-e">
@@ -462,7 +462,7 @@ days.</p>
 </div>
 </div>
 </section>
-<section id="sponsors">
+<section id="sponsors" name="sponsors">
 <div class="view">
 <img alt class="bg" src="images/bg/stocksnap/219FB68281.jpg" /><img alt class="bg" src="images/bg/stocksnap/219FB68281.jpg" />
 <div class="content colors-e">
@@ -473,7 +473,7 @@ days.</p>
 </div>
 </div>
 </section>
-<section id="contact">
+<section id="contact" name="contact">
 <div class="view">
 <img alt class="bg" src="images/bg/pexels/art-brush-colors-3112.jpg" /><img alt class="bg" src="images/bg/picjumbo/picjumbo.com_IMG_4563.jpg" /><img alt class="bg" src="images/bg/picjumbo/picjumbo.com_HNCK1805.jpg" />
 <div class="content full-size colors-h">
