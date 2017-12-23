@@ -231,7 +231,7 @@
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="abhishek kumar" src="images/our-team/Abhishek_kumar.jpg" title="abhishek kumar" class="fluid-width">
+<img alt="abhishek kumar" src="images/our-team/abhishek_kumar.jpg" title="abhishek kumar" class="fluid-width">
 
 </div>
 <div class="caption">
@@ -463,9 +463,9 @@
 <h5>Additional Links</h5>
 <ul class="simple">
 <li><a href="#">Blog</a></li>
-<li><a href="http://tvaran2k18.org/#about">About</a></li>
-<li><a href="http://tvaran2k18.org/#events">Events</a></li>
-<li><a href="http://tvaran2k18.org/#numbers">Our Numbers</a></li>
+<li><a href="#about">About</a></li>
+<li><a href="#events">Events</a></li>
+<li><a href="#numbers">Our Numbers</a></li>
 </ul>
 </div>
 <div class="col-md-3">

@@ -42,28 +42,27 @@ color:#fff;
 }
 /* Modal Content */
 .modal-content {
-    background-color: #fefefe;
+    background-color: #000;
     margin: auto;
     padding: 20px;
     border: 1px solid #888;
-    width: 30%;
+    width: 55%;
 }
 
 /* The Close Button */
 .close {
-    color: #aaaaaa;
+    color: white;
     float: right;
-    font-size: 28px;
+    font-size: 38px;
     font-weight: bold;
 }
 
 .close:hover,
 .close:focus {
-    color: #000;
+    color: white;
     text-decoration: none;
     cursor: pointer;
 }
-
 
 </style>
 </head>
@@ -176,29 +175,37 @@ color:#fff;
 <div class="content colors-h">
 <div class="container">
 <h2>Events</h2>
+
 <div class="row icon-set">
 <div class="col-md-3 text-center">
 <p>
 <img src="images/svg/athletic.svg" height="150px" />
 </p>
-<a href="#" id="myBtn" class="btncolor">
+<a href="#" id="myBtn_0" class="btncolor">
 <p class="title"><span class="underline-text" style="color:white;">Athletics</span></p>
 </a>
 </div>
 <!-- Model start for athletics -->
 
-<div id="myModal" class="modal">
+<div id="myModal_0" class="modal">
 
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close">&times;</span>
     <div class="row container">
     	<div class="col-md-1"></div>
-    	<div class="col-md-10">	
-    		<div style="margin-left: 10%; ">
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
     			<h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
-    			<div style="margin-bottom: 12px ;" ><a href="#" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
-    			
+    			<div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1ZJtDdN38BOB-umJVS5M2HX3DmIFMn4Bs8q0V44zO7vQ/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
+    		</div>
+    	</div>
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
+    			<div style="margin-left: 14%;margin-top:7%;">
+                <img src="images/svg/signup.jpg" height="40px" />
+                </div>
+    			<div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
     		</div>
     	</div>
     	<div class="col-md-1"></div>
@@ -212,25 +219,32 @@ color:#fff;
 <p>
 <img src="images/svg/football.svg" height="150px" />
 </p>
-<a href="#" id="myBtn1" class="btncolor">
+<a href="#" id="myBtn_1" class="btncolor">
 <p class="title"><span class="underline-text" style="color:white;">Football</span></p>
 </a>
 </div>
 
 <!-- Model start for football -->
 
-<div id="myModal1" class="modal">
+<div id="myModal_1" class="modal">
 
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close">&times;</span>
     <div class="row container">
     	<div class="col-md-1"></div>
-    	<div class="col-md-10">	
-    		<div style="margin-left: 10%; ">
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
     			<h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
-    			<div style="margin-bottom: 12px ;" ><a href="#" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
-    			
+    			<div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/17Wrb4o2KGrecS6PNmozIXwjqpcoBXegcNcASTMoQrhg/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
+    		</div>
+    	</div>
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
+    			<div style="margin-left: 14%;margin-top:7%;">
+                <img src="images/svg/signup.jpg" height="40px" />
+                </div>
+    			<div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
     		</div>
     	</div>
     	<div class="col-md-1"></div>
@@ -245,25 +259,32 @@ color:#fff;
 <p>
 <img src="images/svg/basketball.svg" height="150px" />
 </p>
-<a href="#" id="myBtn2" class="btncolor">
+<a href="#" id="myBtn_2" class="btncolor">
 <p class="title"><span class="underline-text" style="color:white;">Basket ball</span></p>
 </a>
 </div>
 
 <!-- Model start for basket ball -->
 
-<div id="myModal2" class="modal">
+<div id="myModal_2" class="modal">
 
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close">&times;</span>
     <div class="row container">
     	<div class="col-md-1"></div>
-    	<div class="col-md-10">	
-    		<div style="margin-left: 10%; ">
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
     			<h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
-    			<div style="margin-bottom: 12px ;" ><a href="#" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
-    			
+    			<div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1G64gs94Fm7YGkkOnnh2JVqBkL8Gs_u1SqAaxUNR-k4s/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
+    		</div>
+    	</div>
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
+    			<div style="margin-left: 14%;margin-top:7%;">
+                <img src="images/svg/signup.jpg" height="40px" />
+                </div>
+    			<div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
     		</div>
     	</div>
     	<div class="col-md-1"></div>
@@ -277,25 +298,32 @@ color:#fff;
 <p>
 <img src="images/svg/cricket.svg" height="150px"  />
 </p>
-<a href="#" id="myBtn3" class="btncolor">
+<a href="#" id="myBtn_3" class="btncolor">
 <p class="title"><span class="underline-text" style="color:white;">Cricket</span></p>
 </a>
 </div>
 
 <!-- Model start for cricket -->
 
-<div id="myModal3" class="modal">
+<div id="myModal_3" class="modal">
 
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close">&times;</span>
     <div class="row container">
     	<div class="col-md-1"></div>
-    	<div class="col-md-10">	
-    		<div style="margin-left: 10%; ">
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
     			<h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
-    			<div style="margin-bottom: 12px ;" ><a href="#" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
-    			
+    			<div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1GRXhKpdQRaB8VTg1Q557c_ZR-_TLBNapNzwh8pi8rTU/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
+    		</div>
+    	</div>
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
+    			<div style="margin-left: 14%;margin-top:7%;">
+                <img src="images/svg/signup.jpg" height="40px" />
+                </div>
+    			<div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
     		</div>
     	</div>
     	<div class="col-md-1"></div>
@@ -309,24 +337,31 @@ color:#fff;
 <p>
 <img src="images/svg/badminton.svg" height="150px" />
 </p>
-<a href="#" id="myBtn4" class="btncolor">
+<a href="#" id="myBtn_4" class="btncolor">
 <p class="title"><span class="underline-text" style="color:white;">Badminton</span></p>
 </a>
 </div>
 <!-- Model start for badminton -->
 
-<div id="myModal4" class="modal">
+<div id="myModal_4" class="modal">
 
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close">&times;</span>
     <div class="row container">
     	<div class="col-md-1"></div>
-    	<div class="col-md-10">	
-    		<div style="margin-left: 10%; ">
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
     			<h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
-    			<div style="margin-bottom: 12px ;" ><a href="#" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
-    			
+    			<div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/14X0advB5DUS92bghqSWJtddK-DEP8ycrG7ewNc33Jk0/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
+    		</div>
+    	</div>
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
+    			<div style="margin-left: 14%;margin-top:7%;">
+                <img src="images/svg/signup.jpg" height="40px" />
+                </div>
+    			<div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
     		</div>
     	</div>
     	<div class="col-md-1"></div>
@@ -339,24 +374,31 @@ color:#fff;
 <p>
 <img src="images/svg/carrom.svg" height="150px" />
 </p>
-<a href="#" id="myBtn5" class="btncolor">
+<a href="#" id="myBtn_5" class="btncolor">
 <p class="title"><span class="underline-text" style="color:white;">Carrom</span></p>
 </a>
 </div>
 <!-- Model start for carrom -->
 
-<div id="myModal5" class="modal">
+<div id="myModal_5" class="modal">
 
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close">&times;</span>
     <div class="row container">
     	<div class="col-md-1"></div>
-    	<div class="col-md-10">	
-    		<div style="margin-left: 10%; ">
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
     			<h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
-    			<div style="margin-bottom: 12px ;" ><a href="#" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
-    			
+    			<div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1Z0YSrEOcqS6Y6d_tyclk8RZJezMfLQEo7fHkXzmRvcM/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
+    		</div>
+    	</div>
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
+    			<div style="margin-left: 14%;margin-top:7%;">
+                <img src="images/svg/signup.jpg" height="40px" />
+                </div>
+    			<div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
     		</div>
     	</div>
     	<div class="col-md-1"></div>
@@ -369,24 +411,31 @@ color:#fff;
 <p>
 <img src="images/svg/chess.svg" height="150px" />
 </p>
-<a href="#" id="myBtn6" class="btncolor">
+<a href="#" id="myBtn_6" class="btncolor">
 <p class="title"><span class="underline-text" style="color:white;">Chess</span></p>
 </a>
 </div>
 <!-- Model start for chess -->
 
-<div id="myModal6" class="modal">
+<div id="myModal_6" class="modal">
 
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close">&times;</span>
     <div class="row container">
     	<div class="col-md-1"></div>
-    	<div class="col-md-10">	
-    		<div style="margin-left: 10%; ">
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
     			<h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
-    			<div style="margin-bottom: 12px ;" ><a href="#" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
-    			
+    			<div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1UNRwjBu2Qr37uOwxXhyyHcnKPkEM63KEYHc5b3FFpzs/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
+    		</div>
+    	</div>
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
+    			<div style="margin-left: 14%;margin-top:7%;">
+                <img src="images/svg/signup.jpg" height="40px" />
+                </div>
+    			<div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
     		</div>
     	</div>
     	<div class="col-md-1"></div>
@@ -400,24 +449,31 @@ color:#fff;
 <p>
 <img src="images/svg/lan_gaming.svg" height="150px" />
 </p>
-<a href="#" id="myBtn9" class="btncolor">
+<a href="#" id="myBtn_7" class="btncolor">
 <p class="title"><span class="underline-text" style="color:white;">Lan Gaming</span></p>
 </a>
 </div>
 <!-- Model start for lan gaming -->
 
-<div id="myModal9" class="modal">
+<div id="myModal_7" class="modal">
 
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close">&times;</span>
     <div class="row container">
     	<div class="col-md-1"></div>
-    	<div class="col-md-10">	
-    		<div style="margin-left: 10%; ">
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
     			<h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
-    			<div style="margin-bottom: 12px ;" ><a href="#" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
-    			
+    			<div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1qQcopbVs8cKENYdqbT-Z0X7BlcfhbBzlCND688ZF3_g/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
+    		</div>
+    	</div>
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
+    			<div style="margin-left: 14%;margin-top:7%;">
+                <img src="images/svg/signup.jpg" height="40px" />
+                </div>
+    			<div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
     		</div>
     	</div>
     	<div class="col-md-1"></div>
@@ -432,24 +488,31 @@ color:#fff;
 <p>
 <img src="images/svg/table_tenis.svg" height="150px" />
 </p>
-<a href="#" id="myBtn10" class="btncolor">
+<a href="#" id="myBtn_8" class="btncolor">
 <p class="title"><span class="underline-text" style="color:white;">Table Tenis</span></p>
 </a>
 </div>
 <!-- Model start for table tenis -->
 
-<div id="myModal10" class="modal">
+<div id="myModal_8" class="modal">
 
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close">&times;</span>
     <div class="row container">
     	<div class="col-md-1"></div>
-    	<div class="col-md-10">	
-    		<div style="margin-left: 10%; ">
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
     			<h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
-    			<div style="margin-bottom: 12px ;" ><a href="#" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
-    			
+    			<div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1IzidV5j5Yy4RaWIhoz2saXeyxCLcaRgYpjN5u6Zy0Vo/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
+    		</div>
+    	</div>
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
+    			<div style="margin-left: 14%;margin-top:7%;">
+                <img src="images/svg/signup.jpg" height="40px" />
+                </div>
+    			<div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
     		</div>
     	</div>
     	<div class="col-md-1"></div>
@@ -462,24 +525,31 @@ color:#fff;
 <p>
 <img src="images/svg/vollyball.svg" height="150px"  />
 </p>
-<a href="#" id="myBtn11" class="btncolor">
+<a href="#" id="myBtn_9" class="btncolor">
 <p class="title"><span class="underline-text" style="color:white;">Vollyball</span></p>
 </a>
 </div>
 <!-- Model start for bollyball -->
 
-<div id="myModal11" class="modal">
+<div id="myModal_9" class="modal">
 
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close">&times;</span>
     <div class="row container">
     	<div class="col-md-1"></div>
-    	<div class="col-md-10">	
-    		<div style="margin-left: 10%; ">
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
     			<h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
-    			<div style="margin-bottom: 12px ;" ><a href="#" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
-    			
+    			<div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1YCGp5Fur-l-yM3CVTUzfP-MqoC71E46FO3waklNwyjs/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
+    		</div>
+    	</div>
+    	<div class="col-md-3">	
+    		<div style="margin-left: 1%; ">
+    			<div style="margin-left: 14%;margin-top:7%;">
+                <img src="images/svg/signup.jpg" height="40px" />
+                </div>
+    			<div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
     		</div>
     	</div>
     	<div class="col-md-1"></div>
@@ -488,9 +558,6 @@ color:#fff;
 
 </div>
 <!-- Model end for vollyball -->
-<div class="col-md-3">
-	</div>
-
 </div>
 </div>
 </div>
@@ -555,28 +622,28 @@ Events-+91 9695015595
 
 <script>
 // Get the modal for athletics
-var modal = document.getElementById('myModal');
+var modal_0 = document.getElementById('myModal_0');
 
 // Get the button that opens the modal
-var btn = document.getElementById("myBtn");
+var btn_0 = document.getElementById("myBtn_0");
 
 // Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
+var span1 = document.getElementsByClassName("close")[0];
 
 // When the user clicks the button, open the modal 
-btn.onclick = function() {
-    modal.style.display = "block";
+btn_0.onclick = function() {
+    modal_0.style.display = "block";
 }
 
 // When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-    modal.style.display = "none";
+span1.onclick = function() {
+    modal_0.style.display = "none";
 }
 
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
+    if (event.target == modal_0) {
+        modal_0.style.display = "none";
     }
 }
 </script>
@@ -584,28 +651,28 @@ window.onclick = function(event) {
 
 <script>
 // Get the modal for football
-var modal = document.getElementById('myModal1');
+var modal2 = document.getElementById('myModal_1');
 
 // Get the button that opens the modal
-var btn = document.getElementById("myBtn1");
+var btn2 = document.getElementById("myBtn_1");
 
 // Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[1];
+var span2 = document.getElementsByClassName("close")[1];
 
 // When the user clicks the button, open the modal 
-btn.onclick = function() {
-    modal.style.display = "block";
+btn2.onclick = function() {
+    modal2.style.display = "block";
 }
 
 // When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-    modal.style.display = "none";
+span2.onclick = function() {
+    modal2.style.display = "none";
 }
 
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
+    if (event.target == modal2) {
+        modal2.style.display = "none";
     }
 }
 </script>
@@ -613,28 +680,28 @@ window.onclick = function(event) {
 
 <script>
 // Get the modal for basketball
-var modal = document.getElementById('myModal2');
+var modal3 = document.getElementById('myModal_2');
 
 // Get the button that opens the modal
-var btn = document.getElementById("myBtn2");
+var btn3 = document.getElementById("myBtn_2");
 
 // Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[2];
+var span3 = document.getElementsByClassName("close")[2];
 
 // When the user clicks the button, open the modal 
-btn.onclick = function() {
-    modal.style.display = "block";
+btn3.onclick = function() {
+    modal3.style.display = "block";
 }
 
 // When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-    modal.style.display = "none";
+span3.onclick = function() {
+    modal3.style.display = "none";
 }
 
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
+    if (event.target == modal3) {
+        modal3.style.display = "none";
     }
 }
 </script>
@@ -642,28 +709,28 @@ window.onclick = function(event) {
 
 <script>
 // Get the modal for cricket
-var modal = document.getElementById('myModal3');
+var modal4 = document.getElementById('myModal_3');
 
 // Get the button that opens the modal
-var btn = document.getElementById("myBtn3");
+var btn4 = document.getElementById("myBtn_3");
 
 // Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[3];
+var span4 = document.getElementsByClassName("close")[3];
 
 // When the user clicks the button, open the modal 
-btn.onclick = function() {
-    modal.style.display = "block";
+btn4.onclick = function() {
+    modal4.style.display = "block";
 }
 
 // When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-    modal.style.display = "none";
+span4.onclick = function() {
+    modal4.style.display = "none";
 }
 
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
+    if (event.target == modal4) {
+        modal4.style.display = "none";
     }
 }
 </script>
@@ -671,151 +738,151 @@ window.onclick = function(event) {
 
 <script>
 // Get the modal for badminton
-var modal = document.getElementById('myModal4');
+var modal5 = document.getElementById('myModal_4');
 
 // Get the button that opens the modal
-var btn = document.getElementById("myBtn4");
+var btn5 = document.getElementById("myBtn_4");
 
 // Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[4];
+var span5 = document.getElementsByClassName("close")[4];
 
 // When the user clicks the button, open the modal 
-btn.onclick = function() {
-    modal.style.display = "block";
+btn5.onclick = function() {
+    modal5.style.display = "block";
 }
 
 // When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-    modal.style.display = "none";
+span5.onclick = function() {
+    modal5.style.display = "none";
 }
 
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
+    if (event.target == modal5) {
+        modal5.style.display = "none";
     }
 }
 </script>
 
 <script>
 // Get the modal for carrom
-var modal = document.getElementById('myModal5');
+var modal6 = document.getElementById('myModal_5');
 
 // Get the button that opens the modal
-var btn = document.getElementById("myBtn5");
+var btn6 = document.getElementById("myBtn_5");
 
 // Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[5];
+var span6 = document.getElementsByClassName("close")[5];
 
 // When the user clicks the button, open the modal 
-btn.onclick = function() {
-    modal.style.display = "block";
+btn6.onclick = function() {
+    modal6.style.display = "block";
 }
 
 // When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-    modal.style.display = "none";
+span6.onclick = function() {
+    modal6.style.display = "none";
 }
 
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
+    if (event.target == modal6) {
+        modal6.style.display = "none";
     }
 }
 </script>
 
 <script>
 // Get the modal for Chess
-var modal = document.getElementById('myModal6');
+var modal7 = document.getElementById('myModal_6');
 
 // Get the button that opens the modal
-var btn = document.getElementById("myBtn6");
+var btn7 = document.getElementById("myBtn_6");
 
 // Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[6];
+var span7 = document.getElementsByClassName("close")[6];
 
 // When the user clicks the button, open the modal 
-btn.onclick = function() {
-    modal.style.display = "block";
+btn7.onclick = function() {
+    modal7.style.display = "block";
 }
 
 // When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-    modal.style.display = "none";
+span7.onclick = function() {
+    modal7.style.display = "none";
 }
 
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
+    if (event.target == modal7) {
+        modal7.style.display = "none";
     }
 }
 </script>
 
 <script>
 // Get the modal for lan gaming
-var modal = document.getElementById('myModal9');
+var modal8 = document.getElementById('myModal_7');
 
 // Get the button that opens the modal
-var btn = document.getElementById("myBtn9");
+var btn8 = document.getElementById("myBtn_7");
 
 // Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[9];
+var span8 = document.getElementsByClassName("close")[7];
 
 // When the user clicks the button, open the modal 
-btn.onclick = function() {
-    modal.style.display = "block";
+btn8.onclick = function() {
+    modal8.style.display = "block";
 }
 
 // When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-    modal.style.display = "none";
+span8.onclick = function() {
+    modal8.style.display = "none";
 }
 
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
+    if (event.target == modal8) {
+        modal8.style.display = "none";
     }
 }
 </script>
 <script>
 // Get the modal for table tenis
-var modal = document.getElementById('myModal10');
+var modal9 = document.getElementById('myModal_8');
 
 // Get the button that opens the modal
-var btn = document.getElementById("myBtn10");
+var btn9 = document.getElementById("myBtn_8");
 
 // Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[10];
+var span9 = document.getElementsByClassName("close")[8];
 
 // When the user clicks the button, open the modal 
-btn.onclick = function() {
-    modal.style.display = "block";
+btn9.onclick = function() {
+    modal9.style.display = "block";
 }
 
 // When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-    modal.style.display = "none";
+span9.onclick = function() {
+    modal9.style.display = "none";
 }
 
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
-    if (event.target == modal) {
-        modal.style.display = "none";
+    if (event.target == modal9) {
+        modal9.style.display = "none";
     }
 }
 </script>
 <script>
 // Get the modal for vollyball
-var modal = document.getElementById('myModal11');
+var modal = document.getElementById('myModal_9');
 
 // Get the button that opens the modal
-var btn = document.getElementById("myBtn11");
+var btn = document.getElementById("myBtn_9");
 
 // Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[11];
+var span = document.getElementsByClassName("close")[9];
 
 // When the user clicks the button, open the modal 
 btn.onclick = function() {
