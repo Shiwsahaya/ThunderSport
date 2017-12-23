@@ -249,6 +249,7 @@ days.</p>
 </div>
 </div>
 </section>
+
 <section id="gallery" name="gallery">
 <div class="view">
 <div class="content no-bottom-padding colors-e">
@@ -288,7 +289,7 @@ days.</p>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
 <a href="#" class="hover-overlay">
-<img alt="Project 4" src="images/events/16.JPG" />
+<img alt="Project 4" src="images/events/24.JPG" />
 </a>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
@@ -303,7 +304,6 @@ days.</p>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
 <a href="#" class="hover-overlay">
-
 <img alt="project 7" src="images/events/11.JPG" />
 </a>
 </div>
@@ -324,7 +324,7 @@ days.</p>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
 <a href="#" class="hover-overlay">
-<img alt="Project 11" src="images/events/26.JPG" />
+<img alt="Project 11" src="images/events/24.JPG" />
 </a>
 </div>
 <div class="item col-md-3 col-sm-4 col-xs-6" data-groups='["All"]'>
@@ -345,7 +345,7 @@ days.</p>
 <div class="row icon-set">
 <div class="col-md-3 text-center">
 <p>
-<img src="images/svg/Athletic.svg" height="150px"  />
+<img src="images/svg/athletic.svg" height="150px"  />
 </p>
 <p class="title"><span class="underline-text">Athletics</span>
 </div>
@@ -598,7 +598,7 @@ Events-+91 9695015595
 <script>
 		if (typeof(atob) == "undefined")
 		{
-			document.write('<script src="lib/stringencoders-v3.10.3/javascript/base64.js"><\/script>');
+			document.write('<script src="lib/stringencoders-v3.10.3/javascript/base64.js"></script>');
 			var atob = function(x)
 			{
 				return base64.decode(x);
