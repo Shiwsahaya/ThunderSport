@@ -136,7 +136,7 @@
 		<h3>Click on your gender to register yourself</h3>
 	</div>
 	<div class="col-md-6 text-center">
-		<a href="#"  class="btncolor">
+		<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSdbhsLP2-t5qQ5YyZuzEf3i6mCGN7GvMAF6btScO1vzsT4v3g%2Fviewform%3Fembedded%3Dtrue&h=ATNW7wUarmV8ffKD1u5D5_zhqEZ3p5La8-3KB8Z-7xx5r8qADeWrvBMmmx430yLU7DMKUxIKyyyoho3tWSzv99ZlxyZrpHh-OnUsJuLJH2rOLS2waYv6zkk80fnIrNLCGRWVFzf0nY-7nw"  class="btncolor">
 		<p>
 		<img src="images/svg/male.svg" height="150px" />
 		</p>
@@ -145,7 +145,7 @@
 	</div>
 
 	<div class="col-md-6 text-center">
-		<a href="#"  class="btncolor">
+		<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScgKqu-KawkTFNIt9KTvdzXeK77FUMO3dIoAkOCi1J304ioYw%2Fviewform%3Fembedded%3Dtrue&h=ATNW7wUarmV8ffKD1u5D5_zhqEZ3p5La8-3KB8Z-7xx5r8qADeWrvBMmmx430yLU7DMKUxIKyyyoho3tWSzv99ZlxyZrpHh-OnUsJuLJH2rOLS2waYv6zkk80fnIrNLCGRWVFzf0nY-7nw"  class="btncolor">
 		<p>
 		<img src="images/svg/female.svg" height="150px" />
 		</p>
