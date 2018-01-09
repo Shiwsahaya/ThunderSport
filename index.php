@@ -153,7 +153,7 @@
 <div class="row">
 <div class="col-md-8 col-md-offset-2">
 <p class="lead text-center" style="text-decoration: underline;">
-	<h3>FEBRUAY 27-29, 2017</h3>
+	<h3>FEBRUAY 22-24, 2018</h3>
 </p>
 <p class="text-center"><a href="#about" class="button background-60-d heading-d border-hard">About Us</a><a href="#contact" class="button background-60-f heading-f border-hard">Contact Us</a></p>
 </div>
