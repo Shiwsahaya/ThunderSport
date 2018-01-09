@@ -170,6 +170,7 @@ color:#fff;
 <a class="cross" href="#"></a>
 </div>
 </div>
+
 <section id="events">
 <div class="view" id="events" style="margin-top: 28px;">
 <div class="content colors-h">
@@ -597,9 +598,9 @@ color:#fff;
 <h5>Contacts</h5>
 Registration and enquiry- +91 9695015595
 
-Branding - +91 9695015595
+Branding - +91 7007691380
 <br/>
-Events-+91 9695015595
+Events-+91 7651927972
 </div>
 </div>
 </div>

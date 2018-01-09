@@ -237,7 +237,7 @@ days.</p>
 <div class="caption">Colleges</div>
 </div>
 <div class="col-md-3 counter background-25-b">
-<div class="count player row heading background-10-light">15</div>
+<div class="count player row heading background-10-light">11</div>
 <div class="caption">Events</div>
 </div>
 <div class="col-md-3 counter background-35-g">
@@ -489,10 +489,10 @@ Tel:
 <strong class="highlight">Registration and enquiry- +91 9695015595</strong>
 </p>
 <p>
-<strong class="highlight">Branding and communications- +91 9695015595</strong>
+<strong class="highlight">Branding and communications- +91 7388790758 <br \>+91 7007691380</strong>
 </p>
 <p>
-<strong class="highlight">Events-+91 9695015595</strong>
+<strong class="highlight">Events-+91 7651927972</strong>
 </p>
 
 </p>
@@ -584,9 +584,9 @@ CSA Hall<br /> KNIT Sultanpur,UP,INDIA,Pincode-228118
 <h5>Contacts</h5>
 Registration and enquiry- +91 9695015595
 
-Branding - +91 9695015595
+Branding - +91 7007691380
 <br/>
-Events-+91 9695015595
+Events-+91 7651927972
 </div>
 </div>
 </div>

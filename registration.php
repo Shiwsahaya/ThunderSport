@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Tvaran || Events</title>
+<title>Tvaran || Regstration</title>
 <meta name="description" content="" />
 <meta name="keywords" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -189,9 +189,9 @@
 <h5>Contacts</h5>
 Registration and enquiry- +91 9695015595
 
-Branding - +91 9695015595
+Branding - +91 7007691380
 <br/>
-Events-+91 9695015595
+Events-+91 7651927972
 </div>
 </div>
 </div>

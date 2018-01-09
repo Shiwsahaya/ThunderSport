@@ -24,6 +24,8 @@
 	}
 </style>
 </head>
+
+
 <body class="state1 background-100-e">
 <div class="page-border bottom colors-e background-solid"><a href="#top" class="hover-effect">To <span class="highlight">Top</span></a></div>
 <div class="page-border left colors-e background-solid">
@@ -203,10 +205,10 @@
 <!-- organ. team end -->
 <div class="container">
 <h3>Management Team</h3>
-<div class="row">
+<div lass="row">
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Deepak Kumar" src="images/our-team/deepak.jpg" title="Deepak Kumar" class="fluid-width" style="height:250px;width: 90%;">
+<img alt="Deepak Kumar" src="images/our-team/dipak.jpg" title="Deepak Kumar" class="fluid-width" style="height:250px;width: 90%;">
 
 </div>
 <div class="caption">
@@ -217,7 +219,7 @@
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="deepshikha singh" src="images/our-team/deepshikha singh.jpg" title="deepshikha singh" class="fluid-width" style="height:250px;width: 90%;">
+<img alt="deepshikha singh" src="images/our-team/deepshikha.jpg" title="deepshikha singh" class="fluid-width" style="height:250px;width: 90%;">
 
 </div>
 <div class="caption">
@@ -241,7 +243,7 @@
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="nidhi srivastava" src="images/our-team/nidhi srivastava.jpg" title="nidhi srivastava" class="fluid-width" style="height:250px;width: 90%;">
+<img alt="nidhi srivastava" src="images/our-team/nidhi.jpg" title="nidhi srivastava" class="fluid-width" style="height:250px;width: 90%;">
 </div>
 <div class="caption">
 <p>
@@ -252,7 +254,7 @@
 </div>
 <!--management team end -->
 <div class="container">
-<h3>Food and Loading Team</h3>
+<h3>Food and Lodging Team</h3>
 <div class="row">
 <div class="col-md-3 col-sm-3  col-xs-6">
 <div class="hover-overlay">
@@ -285,6 +287,8 @@
 </p>
 </div>
 </div>
+
+<!--
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="shashank" src="images/our-team/.jpg" title="Shashank Mishra" class="fluid-width" style="height:250px;width: 90%;">
@@ -294,9 +298,7 @@
 <span class="title">Shashank Mishra</span>
 </p>
 </div>
-</div>
-
-
+</div>   -->
 </div>
 <!-- food & lodging end -->
 <div class="container">
@@ -305,12 +307,12 @@
 <div class="col-sm-4 col-sm-offset-2 col-md-4 col-md-offset-0"></div>
 <div class="col-md-4 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Rajat Kumar" src="images/our-team/rajat kumar.jpg" title="Rajat kumar" class="fluid-width" style="height:250px;width: 90%;">
+<img alt="Neeraj Singh" src="images/our-team/neeraj.jpg" title="Neraj Singh" class="fluid-width" style="height:250px;width: 90%;">
 
 </div>
 <div class="caption">
 <p>
-<span class="title">Rajat Kumar</span>
+<span class="title">Neeraj Singh</span>
 </p>
 </div>
 </div>
@@ -325,7 +327,7 @@
 
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="dharmendra chaudhary" src="images/our-team/dharmendra chaudhary.jpg" title="dharmendra chaudhary" class="fluid-width" style="height:250px;width: 90%;">
+<img alt="dharmendra chaudhary" src="images/our-team/dharmendra.jpg" title="dharmendra chaudhary" class="fluid-width" style="height:250px;width: 90%;">
 
 </div>
 <div class="caption">
@@ -337,7 +339,7 @@
 
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="dharmendra chaudhary" src="images/our-team/dharmendra chaudhary.jpg" title="dharmendra chaudhary" class="fluid-width" style="height:250px;width: 90%;">
+<img alt="Ainika" src="images/our-team/ainika.jpg" title="Ainika Lyngdoh" class="fluid-width" style="height:250px;width: 90%;">
 
 </div>
 <div class="caption">
@@ -376,12 +378,14 @@
 </div>
 <!-- publicity & media end -->
 <div class="container">
-<h3>Web Team</h3>
+<h3>Technical Team</h3>
 <div class="row">
-<div class="col-sm-6 col-sm-offset-3 col-md-3 col-md-offset-0"></div>
+
+
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Jessica Specter" src="images/our-team/Adarsh.jpg" title="Adarsh Pandey" class="fluid-width" style="height:250px;width: 90%;">
+<img alt="Adarsh Pandey" src="images/our-team/Adarsh.jpg" title="Adarsh Pandey" class="fluid-width" style="height:250px;width: 90%;">
+
 </div>
 <div class="caption">
 <p>
@@ -389,9 +393,11 @@
 </p>
 </div>
 </div>
+
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Lynda Smith" src="images/our-team/shiw.jpg" title="Shiwsahaya Maurya" class="fluid-width" style="height:250px;width: 90%;">
+<img alt="Shiwsahaya Maurya" src="images/our-team/shiw.jpg" title="Shiwsahaya Maurya" class="fluid-width" style="height:250px;width: 90%;">
+
 </div>
 <div class="caption">
 <p>
@@ -399,14 +405,27 @@
 </p>
 </div>
 </div>
-<div class="col-sm-6 col-sm-offset-3 col-md-3 col-md-offset-0"></div>
+
+<div class="col-md-3 col-sm-6  col-xs-6">
+<div class="hover-overlay">
+<img alt="Ashwani Gupta" src="images/our-team/ashwani.jpg" title="Ashwani Gupta" class="fluid-width" style="height:250px;width: 90%;">
+
 </div>
+<div class="caption">
+<p>
+<span class="title">Ashwani Gupta</span>
+</p>
+</div>
+</div>
+
+<div class="col-md-3 col-sm-6  col-xs-6">
 </div>
 </div>
 <!-- web team end -->
 </div>
 </div>
 </section>
+
 <footer class="colors-g page-transition non-preloading">
 <div class="container scroll-in-animation" data-animation="fadeInDown">
 <div class="row">
@@ -426,9 +445,9 @@
 <h5>Additional Links</h5>
 <ul class="simple">
 <li><a href="#">Blog</a></li>
-<li><a href="#about">About</a></li>
-<li><a href="#events">Events</a></li>
-<li><a href="#numbers">Our Numbers</a></li>
+<li><a href="http://tvaran2k18.org/#about">About</a></li>
+<li><a href="http://tvaran2k18.org/#events">Events</a></li>
+<li><a href="http://tvaran2k18.org/#numbers">Our Numbers</a></li>
 </ul>
 </div>
 <div class="col-md-3">
@@ -441,9 +460,9 @@
 <h5>Contacts</h5>
 Registration and enquiry- +91 9695015595
 
-Branding - +91 9695015595
+Branding - +91 7007691380
 <br/>
-Events-+91 9695015595
+Events-+91 7651927972
 </div>
 </div>
 </div>
