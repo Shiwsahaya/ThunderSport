@@ -220,7 +220,6 @@
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="deepshikha singh" src="images/our-team/deepshikha.jpg" title="deepshikha singh" class="fluid-width" style="height:250px;width: 90%;">
-
 </div>
 <div class="caption">
 <p>
@@ -228,8 +227,6 @@
 </p>
 </div>
 </div>
-
-
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="Vishant Chaudhary" src="images/our-team/vishant.jpg" title="Vishant Chaudhary" class="fluid-width" style="height:250px;width: 90%;">
@@ -291,7 +288,7 @@
 <!--
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="shashank" src="images/our-team/.jpg" title="Shashank Mishra" class="fluid-width" style="height:250px;width: 90%;">
+<img alt="shashank" src="images/our-team/shashank_tiwari.jpg" title="Shashank Mishra" class="fluid-width" style="height:250px;width: 90%;">
 </div>
 <div class="caption">
 <p>
@@ -308,7 +305,6 @@
 <div class="col-md-4 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="Neeraj Singh" src="images/our-team/neeraj.jpg" title="Neraj Singh" class="fluid-width" style="height:250px;width: 90%;">
-
 </div>
 <div class="caption">
 <p>
@@ -328,7 +324,6 @@
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="dharmendra chaudhary" src="images/our-team/dharmendra.jpg" title="dharmendra chaudhary" class="fluid-width" style="height:250px;width: 90%;">
-
 </div>
 <div class="caption">
 <p>
@@ -340,11 +335,10 @@
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="Ainika" src="images/our-team/ainika.jpg" title="Ainika Lyngdoh" class="fluid-width" style="height:250px;width: 90%;">
-
 </div>
 <div class="caption">
 <p>
-<span class="title">Ainika Lyngdoh</span>
+<span class="title">Ainika Nonglait</span>
 </p>
 </div>
 </div>
