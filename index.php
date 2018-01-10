@@ -1,11 +1,28 @@
 <!DOCTYPE html>
 <html class="background-100-e">
 <head>
-<meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Tvaran || National Level Fest</title>
-<meta name="description" content="Onepage Parallax Site" />
-<meta name="keywords" content="onepage, parallax" />
+<<!-- COMMON TAGS -->
+<meta charset="utf-8">
+<title>Tvaran2k18 || National Level Sports Fest</title>
+<!-- Search Engine -->
+<meta name="description" content="Tvaran is an epic that recites the stories of the greatest players from the technical institute of India. For starters, 2018 will witness the 6th edition of Tvaran.">
+<meta name="image" content="http://tvaran2k18.org/images/bg/tvaran_image.jpg">
+<!-- Schema.org for Google -->
+<meta itemprop="name" content="Tvaran2k18 || National Level Sports Fest">
+<meta itemprop="description" content="Tvaran is an epic that recites the stories of the greatest players from the technical institute of India. For starters, 2018 will witness the 6th edition of Tvaran.">
+<meta itemprop="image" content="http://tvaran2k18.org/images/bg/tvaran_image.jpg">
+<!-- Twitter -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Tvaran2k18 || National Level Sports Fest">
+<meta name="twitter:description" content="Tvaran is an epic that recites the stories of the greatest players from the technical institute of India. For starters, 2018 will witness the 6th edition of Tvaran.">
+<!-- Open Graph general (Facebook, Pinterest & Google+) -->
+<meta name="og:title" content="Tvaran2k18 || National Level Sports Fest">
+<meta name="og:description" content="Tvaran is an epic that recites the stories of the greatest players from the technical institute of India. For starters, 2018 will witness the 6th edition of Tvaran.">
+<meta name="og:url" content="http://tvaran2k18.org/">
+<meta name="og:site_name" content="Tvaran 2k18 || National Level Sports Fest">
+<meta name="og:video" content="https://youtu.be/7LsGVEKfQB4">
+<meta name="og:type" content="website">
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="stylesheet" href="bower_components/fontawesome/css/font-awesome.min.css" />
 <link rel="stylesheet" href="bower_components/animate.css/animate.min.css" />
@@ -137,7 +154,7 @@
 </ul>
 </div>
 
-<div class="youtube-bg" data-video="HYyHJsEwx60" data-mute="yes" data-volume="50" data-alternative="images/bg/tvaran_image.jpg"></div>
+<div class="youtube-bg" data-video="7LsGVEKfQB4" data-mute="yes" data-volume="50" data-alternative="images/bg/tvaran_image.jpg"></div>
 <section id="home" name="home">
 <div class="view">
 <div class="content home-mary full-size colors-a">
