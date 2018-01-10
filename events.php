@@ -111,8 +111,8 @@ color:#fff;
 <div class="page-border bottom colors-e background-solid"><a href="#top" class="hover-effect">To <span class="highlight">Top</span></a></div>
 <div class="page-border left colors-e background-solid">
 <ul>
-<li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
-<li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+<li><a href="https://www.facebook.com/tvaran18/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+<li><a href="https://twitter.com/tvaran2k18" target="_blank"><i class="fa fa-twitter"></i></a></li>
 <li><a href="#" target="_blank"><i class="fa fa-youtube"></i></a></li>
 </ul>
 </div>
@@ -575,8 +575,8 @@ color:#fff;
 <p>National Level Sports Fest</p>
 </div>
 <p class="social-links">
-<a target="_blank" href="#"><i class="fa fa-facebook"></i></a>
-<a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
+<a target="_blank" href="https://www.facebook.com/tvaran18/"><i class="fa fa-facebook"></i></a>
+<a target="_blank" href="https://twitter.com/tvaran2k18"><i class="fa fa-twitter"></i></a>
 <a target="_blank" href="#"><i class="fa fa-youtube"></i></a>
 <a target="_blank" href="#"><i class="fa fa-linkedin"></i></a>
 </p>
