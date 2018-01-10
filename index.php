@@ -2,21 +2,17 @@
 <html class="background-100-e">
 <head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<<!-- COMMON TAGS -->
+<
 <meta charset="utf-8">
 <title>Tvaran2k18 || National Level Sports Fest</title>
-<!-- Search Engine -->
 <meta name="description" content="Tvaran is an epic that recites the stories of the greatest players from the technical institute of India. For starters, 2018 will witness the 6th edition of Tvaran.">
 <meta name="image" content="http://tvaran2k18.org/images/bg/tvaran_image.jpg">
-<!-- Schema.org for Google -->
 <meta itemprop="name" content="Tvaran2k18 || National Level Sports Fest">
 <meta itemprop="description" content="Tvaran is an epic that recites the stories of the greatest players from the technical institute of India. For starters, 2018 will witness the 6th edition of Tvaran.">
 <meta itemprop="image" content="http://tvaran2k18.org/images/bg/tvaran_image.jpg">
-<!-- Twitter -->
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Tvaran2k18 || National Level Sports Fest">
 <meta name="twitter:description" content="Tvaran is an epic that recites the stories of the greatest players from the technical institute of India. For starters, 2018 will witness the 6th edition of Tvaran.">
-<!-- Open Graph general (Facebook, Pinterest & Google+) -->
 <meta name="og:title" content="Tvaran2k18 || National Level Sports Fest">
 <meta name="og:description" content="Tvaran is an epic that recites the stories of the greatest players from the technical institute of India. For starters, 2018 will witness the 6th edition of Tvaran.">
 <meta name="og:url" content="http://tvaran2k18.org/">
