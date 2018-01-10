@@ -40,7 +40,7 @@
 </a>
 <a href="#" class="col-md-6 colors-f background-95-f full-height">
 <div>
-<span class="side-title">Registration will be comming soon..</span>
+<span class="side-title">Register</span>
 </div>
 </a>
 </div>
@@ -83,7 +83,9 @@
 <div class="navbar-header">
 <a class="menu-toggle ext-nav-toggle visible-xs-block" data-target=".ext-nav" href="#"><span></span></a>
 <a class="menu-toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" href="#"><span></span></a>
-<a class="navbar-brand" href="http://tvaran2k18.org/">Tvaran 2k18</a>
+<a class="navbar-brand" href="http://tvaran2k18.org/"><p>
+<img src="images/svg/tvaran.ico" height="70px" />
+</p></a>
 </div>
 <div class="collapse navbar-collapse">
 <ul class="nav navbar-nav navbar-right">

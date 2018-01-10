@@ -42,7 +42,9 @@
 <div class="navbar-header">
 <a class="menu-toggle ext-nav-toggle visible-xs-block" data-target=".ext-nav" href="#"><span></span></a>
 <a class="menu-toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" href="#"><span></span></a>
-<a class="navbar-brand" href="http://tvaran2k18.org/">Tvaran 2k18</a>
+<a class="navbar-brand" href="http://tvaran2k18.org/"><p>
+<img src="images/svg/tvaran.ico" height="70px" />
+</p></a>
 </div>
 <div class="collapse navbar-collapse">
 <ul class="nav navbar-nav navbar-right">
@@ -142,14 +144,28 @@
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Lynda Smith" src="images/our-team/ishan_sharma.jpg" title="Ishan Sharma" class="fluid-width" style="height:250px;width: 90%;">
+<img alt="kamakshi" src="images/our-team/kamakshi.jpg" title="Kamakshi Awasthi" class="fluid-width" style="height:250px;width: 90%;">
 
+</div>
+<div class="caption">
+<p>
+<span class="title">Kamakshi Awasthi</span>
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4 col-sm-offset-2 col-md-4 col-md-offset-0"></div>
+<div class="col-md-4 col-sm-6  col-xs-6">
+<div class="hover-overlay">
+<img alt="Ishan" src="images/our-team/ishan_sharma.jpg" title="Ishan Sharma" class="fluid-width" style="height:260px;width: 90%;">
 </div>
 <div class="caption">
 <p>
 <span class="title">Ishan Sharma</span>
 </p>
 </div>
+</div>
+<div class="col-sm-4 col-sm-offset-2 col-md-4 col-md-offset-0"></div>
 </div>
 </div>
 </div>
@@ -248,11 +264,28 @@
 </p>
 </div>
 </div>
+
+
+<div class="col-sm-4 col-sm-offset-2 col-md-4 col-md-offset-0"></div>
+<div class="col-md-4 col-sm-6  col-xs-6">
+<div class="hover-overlay">
+<img alt="Sarvesh" src="images/our-team/sarvesh.jpg" title="Sarvesh upadhyay" class="fluid-width" style="height:260px;width: 90%;">
 </div>
+<div class="caption">
+<p>
+<span class="title">Sarvesh Kumar Upadhyay</span>
+</p>
+</div>
+</div>
+<div class="col-sm-4 col-sm-offset-2 col-md-4 col-md-offset-0"></div>
+
+</div>
+</div>>
 <!--management team end -->
 <div class="container">
 <h3>Food and Lodging Team</h3>
 <div class="row">
+	<div class="col-md-2 col-sm-3  col-xs-6"></div>
 <div class="col-md-3 col-sm-3  col-xs-6">
 <div class="hover-overlay">
 <img alt="partik singh" src="images/our-team/pratik_singh.jpg" title="partik singh" class="fluid-width" style="height:250px;width: 90%;">
@@ -301,10 +334,10 @@
 <div class="container">
 <h3>First Aid</h3>
 <div class="row">
-<div class="col-sm-4 col-sm-offset-2 col-md-4 col-md-offset-0"></div>
-<div class="col-md-4 col-sm-6  col-xs-6">
+<div class="col-md-3 col-sm-6  col-xs-6"></div>
+<div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Neeraj Singh" src="images/our-team/neeraj.jpg" title="Neraj Singh" class="fluid-width" style="height:250px;width: 90%;">
+<img alt="neeraj" src="images/our-team/neeraj.jpg" title="Neeraj Singh" class="fluid-width" style="height:250px;width: 90%;">
 </div>
 <div class="caption">
 <p>
@@ -312,15 +345,22 @@
 </p>
 </div>
 </div>
-<div class="col-sm-4 col-sm-offset-2 col-md-4 col-md-offset-0"></div>
-
+<div class="col-md-3 col-sm-6  col-xs-6">
+<div class="hover-overlay">
+<img alt="rajat" src="images/our-team/rajat.jpg" title="Rajat Kumar" class="fluid-width" style="height:250px;width: 90%;">
+</div>
+<div class="caption">
+<p>
+<span class="title">Rajat Kumar</span>
+</p>
+</div>
+</div>
+<div class="col-md-3 col-sm-6  col-xs-6"></div>
 </div>
 <!-- first-aid end -->
 <div class="container">
 <h3>Publicity and Media</h3>
 <div class="row">
-
-
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="dharmendra chaudhary" src="images/our-team/dharmendra.jpg" title="dharmendra chaudhary" class="fluid-width" style="height:250px;width: 90%;">
@@ -368,13 +408,28 @@
 </div>
 </div>
 
+<div class="row">
+<div class="col-sm-4 col-sm-offset-2 col-md-4 col-md-offset-0"></div>
+<div class="col-md-4 col-sm-6  col-xs-6">
+<div class="hover-overlay">
+<img alt="Paurush" src="images/our-team/paurush1.jpg" title="Paurush Gupta" class="fluid-width" style="height:260px;width: 90%;">
+</div>
+<div class="caption">
+<p>
+<span class="title">Paurush Gupta</span>
+</p>
+</div>
+</div>
+<div class="col-sm-4 col-sm-offset-2 col-md-4 col-md-offset-0"></div>
+</div>
+</div>
 
 </div>
 <!-- publicity & media end -->
 <div class="container">
 <h3>Technical Team</h3>
 <div class="row">
-
+<div class="col-md-2 col-sm-3  col-xs-6"></div>
 
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
