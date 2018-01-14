@@ -31,12 +31,12 @@
 <link rel="stylesheet" href="theme-custom.css" />
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <style type="text/css">
-	.justify
-	{
-		text-align: justify;
-	}
+    .justify
+    {
+        text-align: justify;
+    }
 
-	#btncolor
+    #btncolor
 {
 color:#fff;
 }
@@ -110,7 +110,7 @@ color:#fff;
 </a>
 <a href="#sponsors" class="col-md-4 colors-g background-solid full-height border-bottom border-left border-lite">
 <div>
-<span class="side-title">Sponsors</span>	
+<span class="side-title">Sponsors</span>    
 </div>
 </a>
 <a href="#numbers" class="col-md-4 colors-g background-solid full-height border-bottom border-left border-lite">
@@ -212,7 +212,7 @@ color:#fff;
 <div class="row">
 <div class="col-md-8 col-md-offset-2">
 <p class="lead text-center" style="text-decoration: underline;">
-	<h3>FEBRUAY 22-24, 2018</h3>
+    <h3>FEBRUAY 22-24, 2018</h3>
 </p>
 <p class="text-center"><a href="#about" class="button background-60-d heading-d border-hard">About Us</a><a href="#contact" class="button background-60-f heading-f border-hard">Contact Us</a></p>
 </div>
@@ -420,22 +420,22 @@ days.</p>
   <div class="modal-content">
     <span class="close">&times;</span>
     <div class="row container">
-    	<div class="col-md-1"></div>
-    	<div class="col-md-3">	
-    		<div style="margin-left: 1%; ">
-    			<h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
-    			<div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1ZJtDdN38BOB-umJVS5M2HX3DmIFMn4Bs8q0V44zO7vQ/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
-    		</div>
-    	</div>
-    	<div class="col-md-3">	
-    		<div style="margin-left: 1%; ">
-    			<div style="margin-left: 14%;margin-top:7%;">
+        <div class="col-md-1"></div>
+        <div class="col-md-3">  
+            <div style="margin-left: 1%; ">
+                <h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
+                <div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1ZJtDdN38BOB-umJVS5M2HX3DmIFMn4Bs8q0V44zO7vQ/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
+            </div>
+        </div>
+        <div class="col-md-3">  
+            <div style="margin-left: 1%; ">
+                <div style="margin-left: 14%;margin-top:7%;">
                 <img src="images/svg/signup.jpg" height="40px" />
                 </div>
-    			<div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
-    		</div>
-    	</div>
-    	<div class="col-md-1"></div>
+                <div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
+            </div>
+        </div>
+        <div class="col-md-1"></div>
     </div>
   </div>
 
@@ -459,22 +459,22 @@ days.</p>
   <div class="modal-content">
     <span class="close">&times;</span>
     <div class="row container">
-    	<div class="col-md-1"></div>
-    	<div class="col-md-3">	
-    		<div style="margin-left: 1%; ">
-    			<h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
-    			<div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/17Wrb4o2KGrecS6PNmozIXwjqpcoBXegcNcASTMoQrhg/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
-    		</div>
-    	</div>
-    	<div class="col-md-3">	
-    		<div style="margin-left: 1%; ">
-    			<div style="margin-left: 14%;margin-top:7%;">
+        <div class="col-md-1"></div>
+        <div class="col-md-3">  
+            <div style="margin-left: 1%; ">
+                <h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
+                <div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/17Wrb4o2KGrecS6PNmozIXwjqpcoBXegcNcASTMoQrhg/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
+            </div>
+        </div>
+        <div class="col-md-3">  
+            <div style="margin-left: 1%; ">
+                <div style="margin-left: 14%;margin-top:7%;">
                 <img src="images/svg/signup.jpg" height="40px" />
                 </div>
-    			<div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
-    		</div>
-    	</div>
-    	<div class="col-md-1"></div>
+                <div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
+            </div>
+        </div>
+        <div class="col-md-1"></div>
     </div>
   </div>
 
@@ -499,22 +499,22 @@ days.</p>
   <div class="modal-content">
     <span class="close">&times;</span>
     <div class="row container">
-    	<div class="col-md-1"></div>
-    	<div class="col-md-3">	
-    		<div style="margin-left: 1%; ">
-    			<h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
-    			<div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1G64gs94Fm7YGkkOnnh2JVqBkL8Gs_u1SqAaxUNR-k4s/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
-    		</div>
-    	</div>
-    	<div class="col-md-3">	
-    		<div style="margin-left: 1%; ">
-    			<div style="margin-left: 14%;margin-top:7%;">
+        <div class="col-md-1"></div>
+        <div class="col-md-3">  
+            <div style="margin-left: 1%; ">
+                <h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
+                <div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1G64gs94Fm7YGkkOnnh2JVqBkL8Gs_u1SqAaxUNR-k4s/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
+            </div>
+        </div>
+        <div class="col-md-3">  
+            <div style="margin-left: 1%; ">
+                <div style="margin-left: 14%;margin-top:7%;">
                 <img src="images/svg/signup.jpg" height="40px" />
                 </div>
-    			<div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
-    		</div>
-    	</div>
-    	<div class="col-md-1"></div>
+                <div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
+            </div>
+        </div>
+        <div class="col-md-1"></div>
     </div>
   </div>
 
@@ -538,29 +538,29 @@ days.</p>
   <div class="modal-content">
     <span class="close">&times;</span>
     <div class="row container">
-    	<div class="col-md-1"></div>
-    	<div class="col-md-3">	
-    		<div style="margin-left: 1%; ">
-    			<h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
-    			<div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1GRXhKpdQRaB8VTg1Q557c_ZR-_TLBNapNzwh8pi8rTU/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
-    		</div>
-    	</div>
-    	<div class="col-md-3">	
-    		<div style="margin-left: 1%; ">
-    			<div style="margin-left: 14%;margin-top:7%;">
+        <div class="col-md-1"></div>
+        <div class="col-md-3">  
+            <div style="margin-left: 1%; ">
+                <h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
+                <div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1GRXhKpdQRaB8VTg1Q557c_ZR-_TLBNapNzwh8pi8rTU/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
+            </div>
+        </div>
+        <div class="col-md-3">  
+            <div style="margin-left: 1%; ">
+                <div style="margin-left: 14%;margin-top:7%;">
                 <img src="images/svg/signup.jpg" height="40px" />
                 </div>
-    			<div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
-    		</div>
-    	</div>
-    	<div class="col-md-1"></div>
+                <div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
+            </div>
+        </div>
+        <div class="col-md-1"></div>
     </div>
   </div>
 
 </div>
 <!-- Model end for cricket-->
  <div style="margin-top: 10px;">
-	<center>
+    <center>
 <a href="events.php" class="button background-60-f heading-f border-hard">View All Games</a>
 </center>
 </div>
@@ -758,7 +758,7 @@ CSA Hall<br /> KNIT Sultanpur,UP,INDIA,Pincode-228118
 </div>
 <div class="row">
 <div class="col-md-12">
- 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3577.1401000022684!2d82.0785463502533!3d26.28955788331855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399a7c86d691219f%3A0x99a3eb1e7c07f78f!2sKamla+Nehru+Institute+of+Technology+Sultanpur!5e0!3m2!1sen!2sin!4v1512164223651" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3577.1401000022684!2d82.0785463502533!3d26.28955788331855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399a7c86d691219f%3A0x99a3eb1e7c07f78f!2sKamla+Nehru+Institute+of+Technology+Sultanpur!5e0!3m2!1sen!2sin!4v1512164223651" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 </div>
 </div>
@@ -813,17 +813,17 @@ Events-+91 7651927972
 </footer>
 
 <script>
-		if (typeof(atob) == "undefined")
-		{
-			document.write('<script src="lib/stringencoders-v3.10.3/javascript/base64.js"></script>');
-			var atob = function(x)
-			{
-				return base64.decode(x);
-			}
-		}
-		</script>
+        if (typeof(atob) == "undefined")
+        {
+            document.write('<script src="lib/stringencoders-v3.10.3/javascript/base64.js"></script>');
+            var atob = function(x)
+            {
+                return base64.decode(x);
+            }
+        }
+        </script>
 
-		<script>
+        <script>
 // Get the modal for athletics
 var modal_0 = document.getElementById('myModal_0');
 
@@ -954,48 +954,48 @@ window.onclick = function(event) {
 <script src="bower_components/textillate/jquery.textillate.js"></script>
 <script src="lib/prism/prism.js"></script>
 <script>
-		(function()
-		{
-			var disableMobileAnimations = true;
-			var isWin = navigator.appVersion.indexOf("Win") !== -1;
-			if (isWin) $('html').addClass('win');
-			var ua = navigator.userAgent.toLowerCase();
-			var isChrome = ua.indexOf('chrome') > -1;
-			if (isChrome) $('html').addClass('chrome');
-			var isAndroidBrowser4_3minus = ((ua.indexOf('mozilla/5.0') > -1 && ua.indexOf('android ') > -1 && ua.indexOf('applewebkit') > -1) && !(ua.indexOf('chrome') > -1));
-			if (isAndroidBrowser4_3minus) $('html').addClass('android-browser-4_3minus');
-			var isSafari = !isChrome && ua.indexOf('safari') !== -1;
-			if (isSafari) $('html').addClass('safari');
-			var isMobile = Modernizr.touch;
-			if (isMobile)
-			{
-				$('html').addClass('mobile');
-				if (disableMobileAnimations) $('html').addClass('poor-browser');
-			}
-			else
-			{
-				$('html').addClass('non-mobile');
-			}
-			if (isWin && isSafari)
-			{
-				$('html').addClass('flat-animation');
-			}
-		})();
-		</script>
+        (function()
+        {
+            var disableMobileAnimations = true;
+            var isWin = navigator.appVersion.indexOf("Win") !== -1;
+            if (isWin) $('html').addClass('win');
+            var ua = navigator.userAgent.toLowerCase();
+            var isChrome = ua.indexOf('chrome') > -1;
+            if (isChrome) $('html').addClass('chrome');
+            var isAndroidBrowser4_3minus = ((ua.indexOf('mozilla/5.0') > -1 && ua.indexOf('android ') > -1 && ua.indexOf('applewebkit') > -1) && !(ua.indexOf('chrome') > -1));
+            if (isAndroidBrowser4_3minus) $('html').addClass('android-browser-4_3minus');
+            var isSafari = !isChrome && ua.indexOf('safari') !== -1;
+            if (isSafari) $('html').addClass('safari');
+            var isMobile = Modernizr.touch;
+            if (isMobile)
+            {
+                $('html').addClass('mobile');
+                if (disableMobileAnimations) $('html').addClass('poor-browser');
+            }
+            else
+            {
+                $('html').addClass('non-mobile');
+            }
+            if (isWin && isSafari)
+            {
+                $('html').addClass('flat-animation');
+            }
+        })();
+        </script>
 <script src="scripts/script-bundle.js"></script>
 <script>
-		if (Function('/*@cc_on return document.documentMode===9@*/')())
-		{
-			$('html').addClass('ie9');
-		}
-		if (Function('/*@cc_on return document.documentMode===10@*/')())
-		{
-			$('html').addClass('ie10');
-		}
-		if (!!navigator.userAgent.match(/Trident.*rv\:11\./))
-		{
-			$('html').addClass('ie11');
-		}
-		</script>
+        if (Function('/*@cc_on return document.documentMode===9@*/')())
+        {
+            $('html').addClass('ie9');
+        }
+        if (Function('/*@cc_on return document.documentMode===10@*/')())
+        {
+            $('html').addClass('ie10');
+        }
+        if (!!navigator.userAgent.match(/Trident.*rv\:11\./))
+        {
+            $('html').addClass('ie11');
+        }
+        </script>
 </body>
 </html>

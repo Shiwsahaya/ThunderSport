@@ -42,19 +42,19 @@
 <div class="navbar-header">
 <a class="menu-toggle ext-nav-toggle visible-xs-block" data-target=".ext-nav" href="#"><span></span></a>
 <a class="menu-toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" href="#"><span></span></a>
-<a class="navbar-brand" href="http://tvaran2k18.org/"><p>
+<a class="navbar-brand" href="http://tvaran2k18.org/#home" target="_self"><p>
 <img src="images/svg/tvaran.ico" height="70px" />
 </p></a>
 </div>
 <div class="collapse navbar-collapse">
 <ul class="nav navbar-nav navbar-right">
-<li><a href="http://tvaran2k18.org/#home" class="hover-effect">Home</a></li>
-<li><a href="http://tvaran2k18.org/#about" class="hover-effect">About</a></li>
-<li><a href="http://tvaran2k18.org/#events" class="hover-effect">Events</a></li>
-<li><a href="http://tvaran2k18.org/#gallery" class="hover-effect">Gallery</a></li>
-<li><a href="http://tvaran2k18.org/#sponsors" class="hover-effect">Sponsors</a></li>
-<li><a href="http://tvaran2k18.org/#team" class="hover-effect">Our Team</a></li>
-<li><a href="http://tvaran2k18.org/#contact" class="hover-effect">Contact</a></li>
+<li><a href="http://tvaran2k18.org/#home" class="hover-effect" target="_self">Home</a></li>
+<li><a href="http://tvaran2k18.org/#about" class="hover-effect" target="_self">About</a></li>
+<li><a href="http://tvaran2k18.org/#events" class="hover-effect" target="_self">Events</a></li>
+<li><a href="http://tvaran2k18.org/#gallery" class="hover-effect" target="_self">Gallery</a></li>
+<li><a href="http://tvaran2k18.org/#sponsors" class="hover-effect" target="_self">Sponsors</a></li>
+<li><a href="http://tvaran2k18.org/#team" class="hover-effect" target="_self">Our Team</a></li>
+<li><a href="http://tvaran2k18.org/#contact" class="hover-effect" target="_self">Contact</a></li>
 <li class="hidden-xs"><a class="menu-toggle ext-nav-toggle" data-target=".ext-nav" href="#"><span></span></a></li>
 </ul>
 </div>
@@ -264,23 +264,8 @@
 </p>
 </div>
 </div>
-
-
-<div class="col-sm-4 col-sm-offset-2 col-md-4 col-md-offset-0"></div>
-<div class="col-md-4 col-sm-6  col-xs-6">
-<div class="hover-overlay">
-<img alt="Sarvesh" src="images/our-team/sarvesh.jpg" title="Sarvesh upadhyay" class="fluid-width" style="height:260px;width: 90%;">
-</div>
-<div class="caption">
-<p>
-<span class="title">Sarvesh Kumar Upadhyay</span>
-</p>
 </div>
 </div>
-<div class="col-sm-4 col-sm-offset-2 col-md-4 col-md-offset-0"></div>
-
-</div>
-</div>>
 <!--management team end -->
 <div class="container">
 <h3>Food and Lodging Team</h3>
