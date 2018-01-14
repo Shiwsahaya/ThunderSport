@@ -267,12 +267,10 @@ to treasure forever!</p>
 </div>
 <div class="col-content">
 <h4>TALK OF THE TOWN</h4>
-<p class="justify">After each two years hundreds of participants at Tvaran
-put their hard work to test in a vast array of sports. If this
-doesn't catch your attention, the bustle of thousands
-people on the campus streets surely will. Its them who
-make Tvaran the festival it is, a celebration of three long
-days.</p>
+<p class="justify">After two years hundreds of participants at Tvaran put their hard
+ work to test in a vast array of sports. If this doesn't catch your attention, the bustle of thousands
+ people on the campus streets surely will. Its them who make Tvaran a celebration of three long days.
+</p>
 </div>
 </div>
 </div>
