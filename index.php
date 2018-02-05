@@ -141,7 +141,7 @@ color:#fff;
 <img src="images/svg/tvaran.ico" height="70px" />
 </p></a>
 </div>
-<div class="collapse navbar-collapse">
+<div class="collapse navbar-collapse ">
 <ul class="nav navbar-nav navbar-right">
 <li><a href="#home" class="hover-effect">Home</a></li>
 <li><a href="#about" class="hover-effect">About</a></li>
