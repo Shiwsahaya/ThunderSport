@@ -414,6 +414,7 @@
 <div class="container">
 <h3>Technical Team</h3>
 <div class="row">
+<div class="col-md-2 col-sm-6  col-xs-6"></div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
 <img alt="Adarsh Pandey" src="images/our-team/Adarsh.jpg" title="Adarsh Pandey" class="fluid-width" style="height:250px;width: 90%;">
@@ -440,17 +441,6 @@
 
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Shubham Kumar" src="images/our-team/shubham.jpg" title="Shubham Kumar" class="fluid-width" style="height:250px;width: 90%;">
-
-</div>
-<div class="caption">
-<p>
-<span class="title">Shubham Kumar</span>
-</p>
-</div>
-</div>
-<div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay">
 <img alt="Ashwani Gupta" src="images/our-team/ashwani.jpg" title="Ashwani Gupta" class="fluid-width" style="height:250px;width: 90%;">
 
 </div>
@@ -465,6 +455,24 @@
 </div>
 </div>
 <!-- web team end -->
+<div class="container">
+<h3>SOCIAL MEDIA OPERATIOR</h3>
+<div class="row">
+<div class="col-md-4 col-sm-6  col-xs-6"></div>
+
+<div class="col-md-4 col-sm-6  col-xs-6">
+<div class="hover-overlay">
+<img alt="Shubham Kumar" src="images/our-team/shubham.jpg" title="Shubham Kumar" class="fluid-width" style="height:260px;width: 90%;">
+
+</div>
+<div class="caption">
+<p>
+<span class="title">Shubham Kumar</span>
+</p>
+</div>
+</div>
+</div>
+<!-- social media team end -->
 </div>
 </div>
 </section>
