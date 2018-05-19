@@ -42,7 +42,7 @@ color:#fff;
 }
 /* Modal Content */
 .modal-content {
-    background-color: #000;
+    background-color: #000;/* 000 */
     margin: auto;
     padding: 20px;
     border: 1px solid #888;
@@ -78,7 +78,7 @@ color:#fff;
 <span class="side-title">Events</span>
 </div>
 </a>
-<a href="http://tvaran2k18.org/#registration" class="col-md-6 colors-f background-95-f full-height" target="_self">
+<a href="index.php#registration" class="col-md-6 colors-f background-95-f full-height" target="_self">
 <div>
 <span class="side-title">Register</span>
 </div>
@@ -89,17 +89,17 @@ color:#fff;
 </div>
 <div class="container-fluid  half-height">
 <div class="row full-height">
-<a href="http://tvaran2k18.org/#contact" class="col-md-4 colors-g background-solid full-height border-bottom border-lite" target="_self">
+<a href="index.php#contact" class="col-md-4 colors-g background-solid full-height border-bottom border-lite" target="_self">
 <div>
 <span class="side-title">Contact Us</span>
 </div>
 </a>
-<a href="http://tvaran2k18.org/#sponsors" class="col-md-4 colors-g background-solid full-height border-bottom border-left border-lite" target="_self">
+<a href="index.php#sponsors" class="col-md-4 colors-g background-solid full-height border-bottom border-left border-lite" target="_self">
 <div>
 <span class="side-title">Sponsors</span>    
 </div>
 </a>
-<a href="http://tvaran2k18.org/#numbers" class="col-md-4 colors-g background-solid full-height border-bottom border-left border-lite" target="_self">
+<a href="index.php#numbers" class="col-md-4 colors-g background-solid full-height border-bottom border-left border-lite" target="_self">
 <div>
 <span class="side-label">Some Facts</span>
 <span class="side-title">Our Numbers</span>
@@ -123,19 +123,19 @@ color:#fff;
 <div class="navbar-header">
 <a class="menu-toggle ext-nav-toggle visible-xs-block" data-target=".ext-nav" href="#"><span></span></a>
 <a class="menu-toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" href="#"><span></span></a>
-<a class="navbar-brand" href="http://tvaran2k18.org/" target="_self"><p>
-<img src="images/svg/tvaran.ico" height="70px" />
+<a class="navbar-brand" href="index.php" target="_self"><p>
+<img src="images/svg/thunder.jpg" height="50px" />
 </p></a>
 </div>
 <div class="collapse navbar-collapse">
 <ul class="nav navbar-nav navbar-right">
-<li><a href="http://tvaran2k18.org/#home" class="hover-effect" target="_self">Home</a></li>
-<li><a href="http://tvaran2k18.org/#about" class="hover-effect" target="_self">About</a></li>
-<li><a href="http://tvaran2k18.org/#events" class="hover-effect" target="_self">Events</a></li>
-<li><a href="http://tvaran2k18.org/#gallery" class="hover-effect" target="_self">Gallery</a></li>
-<li><a href="http://tvaran2k18.org/#sponsors" class="hover-effect" target="_self">Sponsors</a></li>
-<li><a href="http://tvaran2k18.org/#team" class="hover-effect" target="_self">Our Team</a></li>
-<li><a href="http://tvaran2k18.org/#contact" class="hover-effect" target="_self">Contact</a></li>
+<li><a href="index.php#home" class="hover-effect" target="_self">Home</a></li>
+<li><a href="index.php#about" class="hover-effect" target="_self">About</a></li>
+<li><a href="index.php#events" class="hover-effect" target="_self">Events</a></li>
+<li><a href="index.php#gallery" class="hover-effect" target="_self">Gallery</a></li>
+<li><a href="index.php#sponsors" class="hover-effect" target="_self">Sponsors</a></li>
+<li><a href="index.php#team" class="hover-effect" target="_self">Our Team</a></li>
+<li><a href="index.php#contact" class="hover-effect" target="_self">Contact</a></li>
 <li class="hidden-xs"><a class="menu-toggle ext-nav-toggle" data-target=".ext-nav" href="#"><span></span></a></li>
 </ul>
 </div>
@@ -570,9 +570,8 @@ color:#fff;
 <div class="container scroll-in-animation" data-animation="fadeInDown">
 <div class="row">
 <div class="col-md-3">
-<h4><span class="highlight">Tvaran</span>2K18</h4>
+<h4><span class="highlight">Thunder</span>Sport</h4>
 <div class="footer-description">
-<p>National Level Sports Fest</p>
 </div>
 <p class="social-links">
 <a target="_blank" href="https://www.facebook.com/tvaran18/"><i class="fa fa-facebook"></i></a>
@@ -585,29 +584,29 @@ color:#fff;
 <h5>Additional Links</h5>
 <ul class="simple">
 <li><a href="#">Blog</a></li>
-<li><a href="http://tvaran2k18.org/#about">About</a></li>
-<li><a href="http://tvaran2k18.org/#events">Events</a></li>
-<li><a href="http://tvaran2k18.org/#numbers">Our Numbers</a></li>
+<li><a href="index.php#about">About</a></li>
+<li><a href="index.php#events">Events</a></li>
+<li><a href="index.php#numbers">Our Numbers</a></li>
 </ul>
 </div>
 <div class="col-md-3">
 <h5>Recent Posts</h5>
 <ul class="simple">
-<li><a href="#">Tvaran2k18 || Ready for BigPlay!</a></li>
+<li><a href="#">ThunderSport || Ready for BigPlay!</a></li>
 </ul>
 </div>
 <div class="col-md-3">
 <h5>Contacts</h5>
-Registration and enquiry- +91 9695015595
+Registration and enquiry- +91 8853908527
 
-Branding - +91 7007691380
+Branding - +91 817392281
 <br/>
-Events-+91 7651927972
+Events-+91 9125110069
 </div>
 </div>
 </div>
 <div class="bottom text-center background-10-b">
-© 2018 All Rights Reserved. <a href="#" class="open-overlay-window heading" data-overlay-window=".credits-overlay">TVARAN TEAM.</a>
+© 2018 All Rights Reserved. <a href="#" class="open-overlay-window heading" data-overlay-window=".credits-overlay">Thunder TEAM.</a>
 </div>
 </footer>
 

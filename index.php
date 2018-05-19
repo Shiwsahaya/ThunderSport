@@ -4,20 +4,20 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <
 <meta charset="utf-8">
-<title>Tvaran2k18 || National Level Sports Fest</title>
-<meta name="description" content="Tvaran is an epic that recites the stories of the greatest players from the technical institute of India. For starters, 2018 will witness the 6th edition of Tvaran.">
-<meta name="image" content="http://tvaran2k18.org/images/bg/tvaran_image.jpg">
-<meta itemprop="name" content="Tvaran2k18 || National Level Sports Fest">
-<meta itemprop="description" content="Tvaran is an epic that recites the stories of the greatest players from the technical institute of India. For starters, 2018 will witness the 6th edition of Tvaran.">
-<meta itemprop="image" content="http://tvaran2k18.org/images/bg/tvaran_image.jpg">
+<title>ThunderSport || College Sport Fest</title>
+<meta name="description" content="Thunder is an epic that recites the stories of the greatest players from the technical institute of India. For starters, 2018 will witness the 6th edition of Thunder.">
+<meta name="image" content="http://ThunderSport.org/images/bg/Thunder_image.jpg">
+<meta itemprop="name" content="ThunderSport || College Sport Fest">
+<meta itemprop="description" content="Thunder is an epic that recites the stories of the greatest players from the technical institute of India. For starters, 2018 will witness the 6th edition of Thunder.">
+<meta itemprop="image" content="http://ThunderSport.org/images/bg/Thunder_image.jpg">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Tvaran2k18 || National Level Sports Fest">
-<meta name="twitter:description" content="Tvaran is an epic that recites the stories of the greatest players from the technical institute of India. For starters, 2018 will witness the 6th edition of Tvaran.">
-<meta name="og:title" content="Tvaran2k18 || National Level Sports Fest">
-<meta name="og:description" content="Tvaran is an epic that recites the stories of the greatest players from the technical institute of India. For starters, 2018 will witness the 6th edition of Tvaran.">
-<meta name="og:url" content="http://tvaran2k18.org/">
-<meta name="og:site_name" content="Tvaran 2k18 || National Level Sports Fest">
-<meta name="og:video" content="https://youtu.be/7LsGVEKfQB4">
+<meta name="twitter:title" content="ThunderSport || College Sport Fest">
+<meta name="twitter:description" content="Thunder is an epic that recites the stories of the greatest players from the technical institute of India. For starters, 2018 will witness the 6th edition of Thunder.">
+<meta name="og:title" content="ThunderSport || College Sport Fest">
+<meta name="og:description" content="Thunder is an epic that recites the stories of the greatest players from the technical institute of India. For starters, 2018 will witness the 6th edition of Thunder.">
+<meta name="og:url" content="http://ThunderSport.org/">
+<meta name="og:site_name" content="Thunder 2k18 || College Sport Fest">
+<!--<meta name="og:video" content="https://youtu.be/gF0rrpMH-Jo"> -->
 <meta name="og:type" content="website">
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="stylesheet" href="bower_components/fontawesome/css/font-awesome.min.css" />
@@ -77,10 +77,61 @@ color:#fff;
     text-decoration: none;
     cursor: pointer;
 }
+/* background video style start */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial;
+    font-size: 17px;
+}
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+
+.content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}
+
+#myBtnvd {
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+}
+
+#myBtnvd:hover {
+    background: #ddd;
+    color: black;
+}
+/* background video style start */
 
 </style>
 </head>
 <body class="state1 background-100-e">
+    <!-- video body startd -->
+
+    <video autoplay muted loop id="myVideo">
+  <source src="video/sport.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+    <!-- video body end -->
 <div class="ext-nav background-95-h page-transition">
 <div class="view half-height">
 <img alt class="bg static" src="images/bg/JohnKraus/2.jpg" />
@@ -125,8 +176,8 @@ color:#fff;
 <div class="page-border bottom colors-e background-solid"><a href="#top" class="hover-effect">To <span class="highlight">Top</span></a></div>
 <div class="page-border left colors-e background-solid">
 <ul>
-<li><a href="https://www.facebook.com/tvaran18/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-<li><a href="https://twitter.com/tvaran2k18" target="_blank"><i class="fa fa-twitter"></i></a></li>
+<li><a href="https://www.facebook.com/Thunder18/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+<li><a href="https://twitter.com/ThunderSport" target="_blank"><i class="fa fa-twitter"></i></a></li>
 <li><a href="#contact"><i class="fa fa-youtube"></i></a></li>
 </ul>
 </div>
@@ -138,7 +189,7 @@ color:#fff;
 <a class="menu-toggle ext-nav-toggle visible-xs-block" data-target=".ext-nav" href="#"><span></span></a>
 <a class="menu-toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" href="#"><span></span></a>
 <a class="navbar-brand" href="#"><p>
-<img src="images/svg/tvaran.ico" height="70px" />
+<img src="images/svg/thunder.jpg" height="50px" />
 </p></a>
 </div>
 <div class="collapse navbar-collapse ">
@@ -148,7 +199,7 @@ color:#fff;
 <li><a href="#events" class="hover-effect">Events</a></li>
 <li><a href="#gallery" class="hover-effect">Gallery</a></li>
 <li><a href="#sponsors" class="hover-effect">Sponsors</a></li>
-<li><a href="#team" class="hover-effect">Our Team</a></li>
+<li><a href="#team" class="hover-effect">Developers</a></li>
 <li><a href="#contact" class="hover-effect">Contact</a></li>
 <li class="hidden-xs"><a class="menu-toggle ext-nav-toggle" data-target=".ext-nav" href="#"><span></span></a></li>
 </ul>
@@ -196,7 +247,7 @@ color:#fff;
 </ul>
 </div>
 
-<div class="youtube-bg" data-video="7LsGVEKfQB4" data-mute="yes" data-volume="50" data-alternative="images/bg/tvaran_image.jpg"></div>
+<!--<div class="youtube-bg" data-video="gF0rrpMH-Jo" data-mute="yes" data-volume="50" data-alternative="images/bg/Thunder_image.jpg"></div> -->
 <section id="home" name="home">
 <div class="view">
 <div class="content home-mary full-size colors-a">
@@ -208,11 +259,11 @@ color:#fff;
 <li>We Are Winners</li>
 </ul>
 </div>
-<h1 class="text-center"><span class="highlight">Tvaran</span>2K18</h1>
+<h1 class="text-center"><span class="highlight">Thunder</span>Sport</h1>
 <div class="row">
 <div class="col-md-8 col-md-offset-2">
 <p class="lead text-center" style="text-decoration: underline;">
-    <h3>FEBRUAY 22-24, 2018</h3>
+    
 </p>
 <p class="text-center"><a href="#about" class="button background-60-d heading-d border-hard">About Us</a><a href="#contact" class="button background-60-f heading-f border-hard">Contact Us</a></p>
 </div>
@@ -234,14 +285,14 @@ color:#fff;
 </div>
 <div class="col-content">
 <h4>THE STORY TILL NOW</h4>
-<p class="justify">Tvaran is an epic that recites the stories of the greatest
+<p class="justify">Thunder is an epic that recites the stories of the greatest
 players from the technical institute of India. For starters,
-2018 will witness the 6th edition of Tvaran, a festival
+2018 will witness the 6th edition of Thunder, a festival
 which has grown from strength to strength ever since its
 inception. Initiated in 2005 the year of SIVER JUBILEE of
-K.N.I.T. Sultanpur, the SAGA of TVARAN continues this
+K.N.I.T. Sultanpur, the SAGA of Thunder continues this
 time, headed only to be better than before. After all these
-successful editions, Tvaran, today stands as the largest
+successful editions, Thunder, today stands as the largest
 inter-collegiate sporting event of Uttar Pradesh.</p>
 </div>
 </div>
@@ -256,7 +307,7 @@ win a race, or lose your voice cheering for your team, it
 adds up to your moments. The moments of seeing hundreds
 of participants putting their hard work and the bustle of
 thousands people on the campus, which you will remember
-for forever. We at Tvaran make sure, that you get an
+for forever. We at Thunder make sure, that you get an
 experience worth cherishing and some beautiful memories
 to treasure forever!</p>
 </div>
@@ -267,9 +318,9 @@ to treasure forever!</p>
 </div>
 <div class="col-content">
 <h4>TALK OF THE TOWN</h4>
-<p class="justify">After two years hundreds of participants at Tvaran put their hard
+<p class="justify">After two years hundreds of participants at Thunder put their hard
  work to test in a vast array of sports. If this doesn't catch your attention, the bustle of thousands
- people on the campus streets surely will. Its them who make Tvaran a celebration of three long days.
+ people on the campus streets surely will. Its them who make Thunder a celebration of three long days.
 </p>
 </div>
 </div>
@@ -570,21 +621,24 @@ to treasure forever!</p>
 <div class="view">
 <div class="content colors-e">
 <div class="container">
-<h3>Core Team</h3>
+<h3>Developers</h3>
+<div class="row">
+    <div class="col-md-2 col-sm-3  col-xs-6"></div>
 <div class="row">
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Ashutosh Singh" src="images/our-team/ashutosh_singh.jpg" title="Ashutosh Singh" class="fluid-width" style="height:250px;width: 90%;">
+<img alt="Shiwsahaya" src="images/our-team/sh.jpg" title="Shiwsahaya" class="fluid-width" style="height:250px;width: 90%;">
 </div>
 <div class="caption">
+
 <p>
-<span class="title">Ashutosh Singh</span>
+<span class="title">Shiwsahaya</span>
 </p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Jessica Specter" src="images/our-team/subesh_singh.jpg" title="Subesh Singh" class="fluid-width" style="height:250px;width: 90%;">
+<img alt="Jessica Specter" src="images/our-team/vikas.jpg" title="Vikas Verma" class="fluid-width" style="height:250px;width: 90%;">
 <!--
 <div class="overlay background-90-b">
 <div>
@@ -602,51 +656,21 @@ to treasure forever!</p>
 </div>
 <div class="caption">
 <p>
-<span class="title">Subesh Singh</span>
+<span class="title">Vikas Verma</span>
 </p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6  col-xs-6">
 <div class="hover-overlay">
-<img alt="Lynda Smith" src="images/our-team/pankaj_yadav.jpg" title="Pankaj Yadav" class="fluid-width" style="height:250px;width: 90%;">
+<img alt="Lynda Smith" src="images/our-team/dhiru.jpg" title="dhiru" class="fluid-width" style="height:250px;width: 90%;">
 
 </div>
 <div class="caption">
 <p>
-<span class="title">Pankaj Yadav</span>
+<span class="title">Dharamendra Kumar</span>
 </p>
 </div>
-</div>
-<div class="col-md-3 col-sm-6  col-xs-6">
-<div class="hover-overlay">
-<img alt="kamakshi" src="images/our-team/kamakshi.jpg" title="Kamakshi Awasthi" class="fluid-width" style="height:250px;width: 90%;">
-
-</div>
-<div class="caption">
-<p>
-<span class="title">Kamakshi Awasthi</span>
-</p>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-4 col-sm-offset-2 col-md-4 col-md-offset-0"></div>
-<div class="col-md-4 col-sm-6  col-xs-6">
-<div class="hover-overlay">
-<img alt="Ishan" src="images/our-team/ishan_sharma.jpg" title="Ishan Sharma" class="fluid-width" style="height:260px;width: 90%;">
-</div>
-<div class="caption">
-<p>
-<span class="title">Ishan Sharma</span>
-</p>
-</div>
-</div>
-<div class="col-sm-4 col-sm-offset-2 col-md-4 col-md-offset-0"></div>
-</div>
-</div>
-</div>
-<div align="center" style="margin-bottom: 12px;">
-<a href="team.php" class="button background-60-f heading-f border-hard">View All Team Members</a>
-</div>
+</div><br/>
 <h2>CROWD AND AMBIENCE</h2>
 </div>
 </div>
@@ -701,13 +725,13 @@ to treasure forever!</p>
 <p class="big-font uppercase">
 Tel:
 <p> 
-<strong class="highlight">Registration and enquiry- +91 9695015595</strong>
+<strong class="highlight">Registration and enquiry- +91 8853908527</strong>
 </p>
 <p>
-<strong class="highlight">Branding and communications- +91 7388790758 <br \>+91 7007691380</strong>
+<strong class="highlight">Branding and communications- +91 8173932287 <br \>+91 9125110069</strong>
 </p>
 <p>
-<strong class="highlight">Events-+91 7651927972</strong>
+<strong class="highlight">Events-+91 8853908527</strong>
 </p>
 
 </p>
@@ -717,12 +741,12 @@ CSA Hall<br /> KNIT Sultanpur,UP,INDIA,Pincode-228118
 </p>
 <p class="big-font">
 <b>
-<a href="mailto:tvaran2k18@gmail.com">tvaran2k18@gmail.com</a>
+<a href="mailto:ThunderSport@gmail.com">ThunderSport@gmail.com</a>
 </b>
 </p>
 <p class="big-font">
-<a target="_blank" href="https://twitter.com/tvaran2k18"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x heading"></i><i class="fa fa-twitter fa-stack-1x text-background"></i></span></a>
-<a target="_blank" href="https://www.facebook.com/tvaran18/"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x heading"></i><i class="fa fa-facebook fa-stack-1x text-background"></i></span></a>
+<a target="_blank" href="https://twitter.com/ThunderSport"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x heading"></i><i class="fa fa-twitter fa-stack-1x text-background"></i></span></a>
+<a target="_blank" href="https://www.facebook.com/Thunder18/"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x heading"></i><i class="fa fa-facebook fa-stack-1x text-background"></i></span></a>
 <a href="#contact"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x heading"></i><i class="fa fa-youtube fa-stack-1x text-background"></i></span></a>
 </p>
 </div>
@@ -769,13 +793,13 @@ CSA Hall<br /> KNIT Sultanpur,UP,INDIA,Pincode-228118
 <div class="container scroll-in-animation" data-animation="fadeInDown">
 <div class="row">
 <div class="col-md-3">
-<h4><span class="highlight">Tvaran</span>2K18</h4>
+<h4><span class="highlight">Thunder</span>Sport</h4>
 <div class="footer-description">
-<p>National Level Sports Fest</p>
+<p>College Sport Fest</p>
 </div>
 <p class="social-links">
-<a target="_blank" href="https://www.facebook.com/tvaran18/"><i class="fa fa-facebook"></i></a>
-<a target="_blank" href="https://twitter.com/tvaran2k18"><i class="fa fa-twitter"></i></a>
+<a target="_blank" href="https://www.facebook.com/Thunder18/"><i class="fa fa-facebook"></i></a>
+<a target="_blank" href="https://twitter.com/ThunderSport"><i class="fa fa-twitter"></i></a>
 <a href="#contact"><i class="fa fa-youtube"></i></a>
 <a href="#contact"><i class="fa fa-linkedin"></i></a>
 </p>
@@ -792,7 +816,7 @@ CSA Hall<br /> KNIT Sultanpur,UP,INDIA,Pincode-228118
 <div class="col-md-3">
 <h5>Recent Posts</h5>
 <ul class="simple">
-<li><a href="#">Tvaran2k18 || Ready for BigPlay!</a></li>
+<li><a href="#">ThunderSport || Ready for BigPlay!</a></li>
 </ul>
 </div>
 <div class="col-md-3">
@@ -806,7 +830,7 @@ Events-+91 7651927972
 </div>
 </div>
 <div class="bottom text-center background-10-b">
-© 2018 All Rights Reserved. <a href="#" class="open-overlay-window heading" data-overlay-window=".credits-overlay">TVARAN TEAM.</a>
+© 2018 All Rights Reserved. <a href="#" class="open-overlay-window heading" data-overlay-window=".credits-overlay">Thunder Sport.</a>
 </div>
 </footer>
 
